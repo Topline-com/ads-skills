@@ -111,7 +111,7 @@ Clone this repo, open Claude Code, and ask it anything about your ads. It knows 
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/ivanfalco/ads-skills.git
+git clone https://github.com/ivangfalco/ads-skills.git
 cd ads-skills
 
 # 2. Open Claude Code
