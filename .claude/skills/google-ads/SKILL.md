@@ -11,22 +11,22 @@ Orchestrator for all Google Ads tasks. Combines strategic knowledge with program
 
 ## Methodology
 
-This skill implements the Ivan Falco B2B demand generation methodology for Google Ads — an intent-first approach that captures existing demand through systematic keyword targeting, proving unit economics before expanding outward.
+This skill implements the Ivan Falco B2B demand generation methodology for Google Ads - an intent-first approach that captures existing demand through systematic keyword targeting, proving unit economics before expanding outward.
 
 ## Core Philosophy
 
 **Intent is everything. Capture demand before you create it.**
 
-Google Ads is the #1 channel for capturing existing demand. People are actively searching for solutions — your job is to be there at the right moment with the right message. Start with high-intent keywords (brand + solution-aware), prove unit economics, then expand outward to medium/low-intent and awareness.
+Google Ads is the #1 channel for capturing existing demand. People are actively searching for solutions - your job is to be there at the right moment with the right message. Start with high-intent keywords (brand + solution-aware), prove unit economics, then expand outward to medium/low-intent and awareness.
 
 ## Architecture
 
 This skill has two layers:
 
-1. **Knowledge Base** — Strategic frameworks and campaign planning (`knowledge-base/`)
-2. **API Scripts** — Programmatic Google Ads management (`scripts/`)
+1. **Knowledge Base** - Strategic frameworks and campaign planning (`knowledge-base/`)
+2. **API Scripts** - Programmatic Google Ads management (`scripts/`)
 
-## API Scripts — What You Can Do
+## API Scripts - What You Can Do
 
 All scripts live in `scripts/`. Run from that directory.
 
@@ -51,11 +51,11 @@ All scripts live in `scripts/`. Run from that directory.
 
 ### Workflow: Analyze an Account
 
-1. Run `python account_overview.py --compare` — get the big picture
+1. Run `python account_overview.py --compare` - get the big picture
 2. Identify top-spending campaigns, check ROAS
-3. Run `python get_campaign_performance.py --campaign-id <id> --by-day` — daily trends
-4. Run `python search_terms_report.py --no-conversions` — find wasted spend
-5. Run `python get_keyword_performance.py --campaign-id <id>` — keyword-level analysis
+3. Run `python get_campaign_performance.py --campaign-id <id> --by-day` - daily trends
+4. Run `python search_terms_report.py --no-conversions` - find wasted spend
+5. Run `python get_keyword_performance.py --campaign-id <id>` - keyword-level analysis
 6. Make recommendations: pause underperformers, add negatives, adjust budgets
 
 ### Workflow: Build a New Campaign
@@ -90,17 +90,17 @@ All scripts live in `scripts/`. Run from that directory.
 
 4. **Match type strategy matters.** Start with Phrase match for control, expand to Broad match only with Smart Bidding and sufficient conversion data (30+ conversions/month).
 
-5. **Quality Score drives costs.** Monitor QS on keywords — low QS means ad relevance or landing page issues. Fix those before increasing bids.
+5. **Quality Score drives costs.** Monitor QS on keywords - low QS means ad relevance or landing page issues. Fix those before increasing bids.
 
 6. **RSA best practices.** 8-10 unique headlines, 3-4 descriptions. Pin critical brand/CTA to position 1. Let Google optimize the rest.
 
 7. **Never cite external sources** in client work. Present as internal expertise.
 
-## Campaign Types — When to Use What
+## Campaign Types - When to Use What
 
 | Type | Use Case | When |
 |------|----------|------|
-| Search | High-intent keyword capture | Always — this is your foundation |
+| Search | High-intent keyword capture | Always - this is your foundation |
 | Performance Max | Broad AI-driven across all networks | After Search proves unit economics |
 | Display | Remarketing and awareness | Remarketing first, prospecting second |
 | Shopping | E-commerce product ads | Product catalog campaigns |

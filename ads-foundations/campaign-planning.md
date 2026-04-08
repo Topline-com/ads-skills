@@ -22,12 +22,12 @@ Example: NA_Capture_SolutionAware_Prospecting_ProductManagers
 
 ## Execution Options
 
-### Option 1 — DIY
+### Option 1 - DIY
 
 - Use bulk import options and power editors (e.g., Google Ads Editor) for launching 10+ campaigns
 - Campaign plan templates can be formatted for bulk import into LinkedIn and Google Ads
 
-### Option 2 — Outsource
+### Option 2 - Outsource
 
 - If you have money but not time, outsource to an internal performance marketing resource or hire an agency/contractor
 - Start by asking your network for referrals before using freelancing sites like Upwork or MarketerHire

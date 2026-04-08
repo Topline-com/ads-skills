@@ -1,4 +1,4 @@
-# Meta Ads — Third-Party / Off-Domain Conversion Tracking (Webinars & Events)
+# Meta Ads - Third-Party / Off-Domain Conversion Tracking (Webinars & Events)
 
 When the conversion (e.g. webinar signup, event registration) happens on a **third-party platform** (Luma, Hopin, etc.) instead of on your website, use this for best-practice setup. Applies to anyone running Meta ads to a webinar or event where signup completes off-domain.
 
@@ -49,9 +49,9 @@ Hi [Name],
 
 Quick ask for [webinar/event name] so we can track signups properly in Meta:
 
-1. **Meta pixel in [platform]** — If you're on [platform plan that includes pixel, e.g. Luma Plus], can you add our Meta pixel in [platform]? ([Where to find it, e.g. Calendar → Settings → Options].) That way we get real "registration" events and can optimize for signups. We'll allow [platform domain] in our Meta pixel settings on our side.
+1. **Meta pixel in [platform]** - If you're on [platform plan that includes pixel, e.g. Luma Plus], can you add our Meta pixel in [platform]? ([Where to find it, e.g. Calendar → Settings → Options].) That way we get real "registration" events and can optimize for signups. We'll allow [platform domain] in our Meta pixel settings on our side.
 
-2. **UTM on the signup link** — When someone clicks "Sign up" on the [webinar/event] page, we need the same UTM params (from the page they're on) to be passed through to the [platform] registration URL. That keeps attribution correct. If your team can update the signup button/link to append the current URL's UTM parameters to the [platform] link, we're set.
+2. **UTM on the signup link** - When someone clicks "Sign up" on the [webinar/event] page, we need the same UTM params (from the page they're on) to be passed through to the [platform] registration URL. That keeps attribution correct. If your team can update the signup button/link to append the current URL's UTM parameters to the [platform] link, we're set.
 
 Thanks,
 [Your name]
@@ -60,6 +60,6 @@ Thanks,
 
 ## Related Files
 
-- **meta-setup-and-tracking.md** — Pixel setup, Traffic permissions (allow list), conversion events
-- **meta-capi-and-events.md** — CAPI, event hierarchy, HubSpot vs n8n
-- **campaign-structure.md** — How tracking fits into overall campaign architecture
+- **meta-setup-and-tracking.md** - Pixel setup, Traffic permissions (allow list), conversion events
+- **meta-capi-and-events.md** - CAPI, event hierarchy, HubSpot vs n8n
+- **campaign-structure.md** - How tracking fits into overall campaign architecture

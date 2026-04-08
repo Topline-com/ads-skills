@@ -1,6 +1,6 @@
 # LinkedIn Ads Launch Checklist
 
-8-part checklist to follow before launching any new LinkedIn Ads campaign. Go through each part sequentially — each builds on the previous.
+8-part checklist to follow before launching any new LinkedIn Ads campaign. Go through each part sequentially - each builds on the previous.
 
 ## Part 1: Design Your Group & Campaign Structure
 
@@ -48,9 +48,9 @@ Select the optimal objective for your goals:
 ## Part 4: Create the Ideal Campaign Structure
 
 Brainstorm campaign structure based on:
-- **Regions** — Group similar countries (CPAs vary significantly by region)
-- **Personas** — Separate campaigns for distinct ICPs
-- **Budget/Goals** — Ensure each campaign gets enough budget for 10+ results/week
+- **Regions** - Group similar countries (CPAs vary significantly by region)
+- **Personas** - Separate campaigns for distinct ICPs
+- **Budget/Goals** - Ensure each campaign gets enough budget for 10+ results/week
 
 **Critical settings to verify:**
 - [ ] Audience Expansion -> **OFF**
@@ -60,8 +60,8 @@ Brainstorm campaign structure based on:
 ## Part 5: Calculate Starting Campaign Budget
 
 Select budget type:
-- **Daily budget** (recommended) — more predictable spend, easier to control
-- **Lifetime budget** — only for time-bound campaigns with fixed end dates
+- **Daily budget** (recommended) - more predictable spend, easier to control
+- **Lifetime budget** - only for time-bound campaigns with fixed end dates
 
 **Budget sizing rule:** Each campaign needs enough daily budget to generate at least 10 results/week (ideally 30).
 
@@ -79,13 +79,13 @@ Quick math: If your target CPA is $50, you need at least $50 x 10 / 7 = ~$72/day
 
 ## Part 7: Creative Reporting & Configuration
 
-- [ ] **Turn on even ad rotation** — each ad gets equal budget initially
-- [ ] **After 7-10 days** — review data, then switch to auto rotation
-- [ ] **Apply naming conventions per ad** — enables clean reporting
+- [ ] **Turn on even ad rotation** - each ad gets equal budget initially
+- [ ] **After 7-10 days** - review data, then switch to auto rotation
+- [ ] **Apply naming conventions per ad** - enables clean reporting
   - Format: `[Persona]_[Format][#]_[Copy][#]_{Date}`
   - Example: `SalesDirector_Image1_Text1_2024-01`
 - [ ] **Minimum 4 active ads per campaign**
-- [ ] **Mix formats** — video, document, image, carousel
+- [ ] **Mix formats** - video, document, image, carousel
 
 ## Part 8: Final Launch Check
 
@@ -108,4 +108,4 @@ After launching, monitor daily:
 1. **Are campaigns spending?** If not, audience too small or bid too low
 2. **Is the CTR reasonable?** Below 0.30%, creative or targeting issue
 3. **Are conversions firing?** Check in Campaign Manager AND your analytics tool
-4. **Demographics check** — any irrelevant titles/industries eating budget? Exclude immediately
+4. **Demographics check** - any irrelevant titles/industries eating budget? Exclude immediately

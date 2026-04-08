@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Demand Lifecycle is a comprehensive framework for planning and executing B2B go-to-market programs across the entire buyer journey — not just up to conversion.
+The Demand Lifecycle is a comprehensive framework for planning and executing B2B go-to-market programs across the entire buyer journey - not just up to conversion.
 
 ## Why the 5-Stage Demand Engine?
 
@@ -94,4 +94,4 @@ This is the foundation that determines which stage a prospect belongs to. The pr
 - You don't have to build a full-funnel strategy at once
 - Build bottom-up for quickest ROI: expand --> revive --> accelerate/activate --> capture --> create
 - The target audience's awareness level determines the stage
-- No one knows for certain where someone is in their buyer's journey — use best judgment
+- No one knows for certain where someone is in their buyer's journey - use best judgment

@@ -81,7 +81,7 @@ The dashboard needs to combine ad spend data with CRM data (source of truth).
 
 - Column A: Create date (when the event happened)
 - Column B: Lead source (paid vs organic)
-- Column C: Lead source detail (which channel — Google, LinkedIn, etc.)
+- Column C: Lead source detail (which channel - Google, LinkedIn, etc.)
 
 ### Recommended Data Connectors
 

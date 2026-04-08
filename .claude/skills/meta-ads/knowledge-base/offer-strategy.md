@@ -1,6 +1,6 @@
-# Offer Strategy for B2B Meta Ads — High-ACV ($30K+)
+# Offer Strategy for B2B Meta Ads - High-ACV ($30K+)
 
-What offers to use at each funnel stage when selling B2B SaaS and B2B tech with $30K+ ACV on Meta. Your ads will never outperform a bad offer — this is the #1 lever for campaign success.
+What offers to use at each funnel stage when selling B2B SaaS and B2B tech with $30K+ ACV on Meta. Your ads will never outperform a bad offer - this is the #1 lever for campaign success.
 
 ---
 
@@ -8,9 +8,9 @@ What offers to use at each funnel stage when selling B2B SaaS and B2B tech with 
 
 Meta is a discovery platform, not a search engine. People are scrolling, not shopping. Unlike Google (where users actively search for solutions), Meta users are in passive mode. Your offer must:
 
-1. **Match the prospect's awareness stage** — not what you want them to do, but what they're ready to do
-2. **Justify the micro-commitment** — they're giving you their email/time in exchange for something
-3. **Create urgency** — specificity creates urgency by proxy ("Fix your pipeline leak in 60 days" beats "Improve your pipeline")
+1. **Match the prospect's awareness stage** - not what you want them to do, but what they're ready to do
+2. **Justify the micro-commitment** - they're giving you their email/time in exchange for something
+3. **Create urgency** - specificity creates urgency by proxy ("Fix your pipeline leak in 60 days" beats "Improve your pipeline")
 
 **The core rule:** You cannot sell a $30K+ contract from a cold Meta ad. You sell the click. The landing page sells the next step. The next step sells the meeting. The meeting sells the deal. Each step only needs to earn the NEXT step.
 
@@ -23,7 +23,7 @@ For high-ACV B2B ($30K+), demo requests on cold traffic consistently underperfor
 | Problem | Why It Happens |
 |---------|---------------|
 | **Intent mismatch** | Meta = discovery mode. Google = "I'm ready to buy" mode. Cold prospects aren't solution-shopping yet. |
-| **Commitment too high** | A demo asks for 30-60 min with a stranger. For a $30K decision with procurement, legal, and 3 stakeholders — nobody impulse-books that. |
+| **Commitment too high** | A demo asks for 30-60 min with a stranger. For a $30K decision with procurement, legal, and 3 stakeholders - nobody impulse-books that. |
 | **Sales cycle mismatch** | $30K+ ACV = 3-9 month sales cycle. You're asking for a step-10 action at step 1. |
 | **Low volume for optimization** | Few cold prospects convert to demo → Meta can't optimize → CPA spirals. |
 
@@ -36,7 +36,7 @@ For high-ACV B2B ($30K+), demo requests on cold traffic consistently underperfor
 
 ## Offer Types by Funnel Stage
 
-### Stage 1: COLD — Awareness/Education (Prospecting)
+### Stage 1: COLD - Awareness/Education (Prospecting)
 
 **Goal:** Capture contact info, build retargeting audience, demonstrate expertise.
 
@@ -63,7 +63,7 @@ For high-ACV B2B ($30K+), demo requests on cold traffic consistently underperfor
 - Keep form to 4 fields max: first name, last name, email, one qualifier (company size or role)
 - Lead forms outperform landing pages for cold traffic volume
 
-### Stage 2: WARM — Consideration (Remarketing)
+### Stage 2: WARM - Consideration (Remarketing)
 
 **Goal:** Deepen engagement, build trust, move toward buying intent.
 
@@ -79,7 +79,7 @@ For high-ACV B2B ($30K+), demo requests on cold traffic consistently underperfor
 
 **Budget:** Remarketing is cheap (small audience) with high ROI. Even $20-50/day creates the "they're everywhere" perception.
 
-### Stage 3: HOT — Decision (High-Intent Retargeting + Pipeline)
+### Stage 3: HOT - Decision (High-Intent Retargeting + Pipeline)
 
 **Goal:** Convert to qualified opportunity.
 
@@ -87,8 +87,8 @@ For high-ACV B2B ($30K+), demo requests on cold traffic consistently underperfor
 
 | Offer Type | Example | Why It Works |
 |-----------|---------|-------------|
-| **Custom assessment** | "Free Pipeline Audit — We'll Analyze Your Last 90 Days" | High-value, personalized. Natural bridge to sales conversation. |
-| **Strategy session** | "30-Min Pipeline Strategy Session with Our Team" | Not "demo" — it's a value-exchange meeting. They get something useful even if they don't buy. |
+| **Custom assessment** | "Free Pipeline Audit - We'll Analyze Your Last 90 Days" | High-value, personalized. Natural bridge to sales conversation. |
+| **Strategy session** | "30-Min Pipeline Strategy Session with Our Team" | Not "demo" - it's a value-exchange meeting. They get something useful even if they don't buy. |
 | **Demo (for warm only)** | "See [Product] Solve [Their Specific Problem]" | Only push demos to prospects who've consumed content and shown intent signals. |
 | **ROI proposal** | "Get a Custom ROI Analysis for [Their Company]" | Quantifies the value, addresses CFO/procurement objections before they arise. |
 | **Limited pilot** | "14-Day Pilot Program for Enterprise Teams" | Lower risk than full contract. Gets product in their hands. Only for high-value accounts. |
@@ -111,12 +111,12 @@ For high-ACV B2B ($30K+), demo requests on cold traffic consistently underperfor
 
 For an offer to convert cold B2B traffic on Meta, it must pass these tests:
 
-1. **Massive value asymmetry** — Would they pay for this? (If yes → strong offer)
-2. **Unavailable elsewhere** — Can they Google this for free? (If yes → weak offer)
-3. **Problem-solution alignment** — Does it relate to the problem your product solves? (If no → generates leads who never buy)
-4. **Specificity** — Is it about a specific outcome, or generic? ("Fix pipeline leakage in 60 days" > "Improve your marketing")
-5. **Immediate gratification** — Do they get value within 24 hours? (Long reports nobody reads → weak)
-6. **Ultra-low friction** — 4 fields max, mobile-optimized, instant access
+1. **Massive value asymmetry** - Would they pay for this? (If yes → strong offer)
+2. **Unavailable elsewhere** - Can they Google this for free? (If yes → weak offer)
+3. **Problem-solution alignment** - Does it relate to the problem your product solves? (If no → generates leads who never buy)
+4. **Specificity** - Is it about a specific outcome, or generic? ("Fix pipeline leakage in 60 days" > "Improve your marketing")
+5. **Immediate gratification** - Do they get value within 24 hours? (Long reports nobody reads → weak)
+6. **Ultra-low friction** - 4 fields max, mobile-optimized, instant access
 
 **Examples of strong offers:**
 - ROI calculators (13+ major B2B SaaS companies use these: HubSpot, Intercom, Cognism, Pendo, GoodTime)
@@ -160,18 +160,18 @@ COLD (Meta Prospecting)
 
 ## Common Mistakes
 
-1. **Pushing demos to cold traffic** — Burns budget, generates unqualified meetings, kills sales team morale
-2. **Generic content offers** — "Download our ebook" with no specificity = low conversion + low quality
-3. **Same offer across all stages** — Cold and hot prospects need completely different offers
-4. **Ignoring offer-market fit** — Testing 10 ad creatives with 1 bad offer is 10x wasted budget
-5. **Free trial for high-ACV** — Enterprise buyers don't self-serve. They need sales-led evaluation.
-6. **No offer ladder** — Going straight from awareness → demo. Need intermediate steps.
+1. **Pushing demos to cold traffic** - Burns budget, generates unqualified meetings, kills sales team morale
+2. **Generic content offers** - "Download our ebook" with no specificity = low conversion + low quality
+3. **Same offer across all stages** - Cold and hot prospects need completely different offers
+4. **Ignoring offer-market fit** - Testing 10 ad creatives with 1 bad offer is 10x wasted budget
+5. **Free trial for high-ACV** - Enterprise buyers don't self-serve. They need sales-led evaluation.
+6. **No offer ladder** - Going straight from awareness → demo. Need intermediate steps.
 
 ---
 
 ## Related Files
 
-- **creative-strategy.md** — How to build ads that drive action for each offer type
-- **lead-form-optimization.md** — Form setup, friction management, work email validation
-- **campaign-structure.md** — Which campaign types to use per funnel stage
-- **audience-strategy.md** — Targeting for each stage (cold, warm, hot)
+- **creative-strategy.md** - How to build ads that drive action for each offer type
+- **lead-form-optimization.md** - Form setup, friction management, work email validation
+- **campaign-structure.md** - Which campaign types to use per funnel stage
+- **audience-strategy.md** - Targeting for each stage (cold, warm, hot)

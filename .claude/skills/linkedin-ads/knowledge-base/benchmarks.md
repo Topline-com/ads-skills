@@ -54,8 +54,8 @@ Based on cross-source data:
 
 | Rank | Format | Best For | Cost Efficiency |
 |------|--------|----------|----------------|
-| 1 | Thought Leader Ads (TLA) | TOF engagement + BOF conversion | Highest — lowest CPC, highest CTR |
-| 2 | Video TLAs (VTLA) | TOF awareness + retargeting pool | High — strong conversion rates |
+| 1 | Thought Leader Ads (TLA) | TOF engagement + BOF conversion | Highest - lowest CPC, highest CTR |
+| 2 | Video TLAs (VTLA) | TOF awareness + retargeting pool | High - strong conversion rates |
 | 3 | Video Ads (10-30s) | TOF awareness | Good for retargeting pool building |
 | 4 | Document Ads | MOF nurture | High engagement, good for retargeting |
 | 5 | Single Image | All stages | Versatile, moderate performance |
@@ -69,7 +69,7 @@ Based on cross-source data:
 ## ROAS Benchmarks
 
 - B2B SaaS average ROAS on LinkedIn: ~113%
-- This is a lagging metric — LinkedIn Ads impact is often seen 3-6 months after engagement
+- This is a lagging metric - LinkedIn Ads impact is often seen 3-6 months after engagement
 - Pipeline attribution is more meaningful than last-click ROAS for LinkedIn
 
 ## Key Ratios to Monitor

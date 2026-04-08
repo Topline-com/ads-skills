@@ -1,4 +1,4 @@
-# Meta Ads for B2B SaaS — Overview
+# Meta Ads for B2B SaaS - Overview
 
 Why Meta works for B2B, how the algorithm works (Andromeda + Gem), and the operating model for running Meta ads for B2B SaaS with $30K+ ACV.
 
@@ -6,13 +6,13 @@ Why Meta works for B2B, how the algorithm works (Andromeda + Gem), and the opera
 
 ## Why Meta for B2B SaaS
 
-Meta gets a bad rep in B2B. People think Facebook is full of junk and you can't reach B2B buyers. That's wrong — when done right:
+Meta gets a bad rep in B2B. People think Facebook is full of junk and you can't reach B2B buyers. That's wrong - when done right:
 
 - **~50% lower cost per lead** vs LinkedIn in many cases
 - **Lower cost per qualified opportunity** when audience quality is validated
 - B2B SaaS companies regularly drive 100+ scheduled demos/month at sub-$1,000 cost per demo, with $2-4K cost per opportunity (mid-market and enterprise).
 
-**The catch:** You can't sell to everyone. B2B success on Meta depends on data quality and creative doing the targeting work — not Meta's native B2B targeting (which is weak). And you're on a discovery platform, not a search engine — people are scrolling, not shopping.
+**The catch:** You can't sell to everyone. B2B success on Meta depends on data quality and creative doing the targeting work - not Meta's native B2B targeting (which is weak). And you're on a discovery platform, not a search engine - people are scrolling, not shopping.
 
 ---
 
@@ -22,7 +22,7 @@ Two systems decide who sees your ads. Understanding them drives strategy.
 
 ### Andromeda (Ad Processing Layer)
 
-ML model that processes your ads — copy, images, video transcripts, carousels, targeting hints. Filters to the creative concepts it thinks will perform best.
+ML model that processes your ads - copy, images, video transcripts, carousels, targeting hints. Filters to the creative concepts it thinks will perform best.
 
 **Critical point:** Andromeda needs volume. It processes "three orders of magnitude" more ads in early stages. You need many unique creative concepts, not micro-variations (blue vs green button). Think: UGC vs before/after vs meme vs problem/solution.
 
@@ -30,7 +30,7 @@ ML model that processes your ads — copy, images, video transcripts, carousels,
 
 ### Gem (User Matching Layer)
 
-Analyzes each user's behavior — organic interactions, ad engagement history, browsing patterns — and matches them to the creative concepts Andromeda selected. Picks the best user for each ad.
+Analyzes each user's behavior - organic interactions, ad engagement history, browsing patterns - and matches them to the creative concepts Andromeda selected. Picks the best user for each ad.
 
 ### What This Means for B2B
 
@@ -46,15 +46,15 @@ Analyzes each user's behavior — organic interactions, ad engagement history, b
 
 ### Three Campaign Types
 
-1. **Remarketing** — People who already know you. Website visitors, video viewers, cross-channel retargeting. Highest ROI, lowest risk. Start here.
-2. **Prospecting** — Reach strangers who match your ICP. CRM lookalikes, third-party data, or broad targeting. This is where most budget eventually goes.
-3. **Acceleration** — Ads against open pipeline opportunities. Improve win rates, shorten sales cycles. Only if deal volume and sales cycle length justify it.
+1. **Remarketing** - People who already know you. Website visitors, video viewers, cross-channel retargeting. Highest ROI, lowest risk. Start here.
+2. **Prospecting** - Reach strangers who match your ICP. CRM lookalikes, third-party data, or broad targeting. This is where most budget eventually goes.
+3. **Acceleration** - Ads against open pipeline opportunities. Improve win rates, shorten sales cycles. Only if deal volume and sales cycle length justify it.
 
 ### Three Phases of Campaign Structure
 
-1. **ABO (Audience Validation)** — Test audiences with equal budgets. Find which sources produce quality leads.
-2. **CBO (Creative Scaling)** — Scale winning audiences with more creative concepts.
-3. **Advantage+ (Automated Scaling)** — Full automation once you have 50+ conversions/week.
+1. **ABO (Audience Validation)** - Test audiences with equal budgets. Find which sources produce quality leads.
+2. **CBO (Creative Scaling)** - Scale winning audiences with more creative concepts.
+3. **Advantage+ (Automated Scaling)** - Full automation once you have 50+ conversions/week.
 
 ### The Roadmap
 

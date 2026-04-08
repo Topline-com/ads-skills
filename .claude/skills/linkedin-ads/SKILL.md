@@ -11,7 +11,7 @@ Orchestrator for all LinkedIn Ads tasks. Route to the correct sub-skill based on
 
 ## Methodology
 
-This skill implements the Ivan Falco B2B demand generation methodology — a full-funnel, 5-Stage Demand Engine approach to LinkedIn Ads that prioritizes audience precision, Thought Leader Ads, and systematic scaling through audience penetration.
+This skill implements the Ivan Falco B2B demand generation methodology - a full-funnel, 5-Stage Demand Engine approach to LinkedIn Ads that prioritizes audience precision, Thought Leader Ads, and systematic scaling through audience penetration.
 
 ## Routing Logic
 
@@ -51,10 +51,10 @@ All recommendations must be grounded in the knowledge base. Before executing any
 
 1. **Never cite external sources** in client-facing materials. All knowledge is presented as internal expertise.
 2. **Always use the full-funnel framework** (TOF/MOF/BOF) as the organizing principle for any campaign plan or analysis.
-3. **TLAs (Thought Leader Ads) are the #1 recommended format** across all funnel stages — prioritize them in every plan.
-4. **Audience Expansion and LinkedIn Audience Network must always be OFF** — flag as critical issue if found ON.
+3. **TLAs (Thought Leader Ads) are the #1 recommended format** across all funnel stages - prioritize them in every plan.
+4. **Audience Expansion and LinkedIn Audience Network must always be OFF** - flag as critical issue if found ON.
 5. **Benchmarks are B2B SaaS specific.** Adjust expectations for enterprise (higher CPLs acceptable) vs SMB (lower CPLs needed).
-6. **Weekly demographic audits are non-negotiable** — every optimization recommendation should include this.
+6. **Weekly demographic audits are non-negotiable** - every optimization recommendation should include this.
 7. **Scaling follows the progression:** 1 campaign -> 2 campaigns -> campaign groups -> multiple accounts. Always read `scaling-strategy.md` before advising on scaling.
 8. **Budget penetration drives scaling decisions.** 30-day penetration under 25% or 60-day under 40% = increase budget. Aim for 35%+ penetration.
 9. **ABM campaigns should use company lists** over contact lists. Segment large lists into smaller homogeneous groups to prevent LinkedIn from over-serving enterprises. Read `abm-strategy.md` for ABM work.

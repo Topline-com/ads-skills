@@ -46,12 +46,12 @@ These are recommendations to use as inspiration, not as restrictions. Your speci
 
 ### Product Hero Channel Selection
 
-- **Create (Problem Aware)**: LinkedIn — job title targeting for Product Managers, excluding existing customers and website visitors
-- **Capture (Solution Aware)**: Google Ads + Microsoft Ads — non-brand keywords (product roadmap planning), competitive campaigns (bidding on competitor names)
-- **Capture (Product Aware)**: LinkedIn + Facebook remarketing — staying top of mind with product managers who've visited the site
+- **Create (Problem Aware)**: LinkedIn - job title targeting for Product Managers, excluding existing customers and website visitors
+- **Capture (Solution Aware)**: Google Ads + Microsoft Ads - non-brand keywords (product roadmap planning), competitive campaigns (bidding on competitor names)
+- **Capture (Product Aware)**: LinkedIn + Facebook remarketing - staying top of mind with product managers who've visited the site
 
 ### Sales Hero Channel Selection
 
-- **Create (Problem Aware)**: LinkedIn + Display — targeting top 50 accounts (account-based approach)
-- **Capture (Product Aware)**: LinkedIn remarketing — getting in front of key accounts
-- **Accelerate (Offer Aware)**: LinkedIn — targeting open opportunities at key accounts
+- **Create (Problem Aware)**: LinkedIn + Display - targeting top 50 accounts (account-based approach)
+- **Capture (Product Aware)**: LinkedIn remarketing - getting in front of key accounts
+- **Accelerate (Offer Aware)**: LinkedIn - targeting open opportunities at key accounts

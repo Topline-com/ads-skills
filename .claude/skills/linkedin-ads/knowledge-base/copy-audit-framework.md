@@ -4,14 +4,14 @@ Systematic process for auditing ad copy before it goes live. Applies to all ad f
 
 ## Layer 1: Factual Accuracy
 
-The most critical layer. One wrong claim destroys credibility — especially with technical audiences.
+The most critical layer. One wrong claim destroys credibility - especially with technical audiences.
 
-- **Every claim must trace back to verified source material.** If you can't find it in the source posts, product docs, or verified data — don't use it.
-- **Regulatory or technical statements must be precise.** "Permitted" vs "required," "expanded" vs "mandated" — these are not interchangeable. Technical audiences will catch errors.
-- **Statistics must include source attribution.** A percentage needs its source and sample size — not just the number.
-- **Don't add claims not present in verified content.** If the brand never mentioned a specific regulation, framework, or feature in their content — don't add it.
+- **Every claim must trace back to verified source material.** If you can't find it in the source posts, product docs, or verified data - don't use it.
+- **Regulatory or technical statements must be precise.** "Permitted" vs "required," "expanded" vs "mandated" - these are not interchangeable. Technical audiences will catch errors.
+- **Statistics must include source attribution.** A percentage needs its source and sample size - not just the number.
+- **Don't add claims not present in verified content.** If the brand never mentioned a specific regulation, framework, or feature in their content - don't add it.
 - **Check for implications, not just explicit statements.** "This isn't optional" implies a mandate. "Expanded permissions" implies flexibility. The implication matters as much as the words.
-- **When in doubt, use the brand's exact phrasing.** If they frame something a specific way, use their framing — not your interpretation.
+- **When in doubt, use the brand's exact phrasing.** If they frame something a specific way, use their framing - not your interpretation.
 
 ### Red flags to check:
 - Absolute claims: "required," "mandatory," "the only way," "the biggest"
@@ -22,7 +22,7 @@ The most critical layer. One wrong claim destroys credibility — especially wit
 
 ## Layer 2: Tone of Voice
 
-Check against the brand's tone profile — specifically the "What they NEVER do" list first. This catches the biggest violations fastest.
+Check against the brand's tone profile - specifically the "What they NEVER do" list first. This catches the biggest violations fastest.
 
 ### Check order:
 1. **"Never do" list first.** Every brand profile should have one. Questions in body? Urgency tactics? Competitive positioning? Emojis? If any match the "never" list, fix immediately.
@@ -46,7 +46,7 @@ Every element must earn its place. No filler, no redundancy.
 
 ### For document ads:
 - **Does each slide have ONE distinct purpose?** If you can't state the purpose in 5 words, the slide is unfocused.
-- **Are adjacent slides redundant?** Common mistake: Slide 5 = "what a good system needs" and Slide 6 = "what our product does" — listing the same capabilities with different words. See `document-ads.md` for the differentiation rule.
+- **Are adjacent slides redundant?** Common mistake: Slide 5 = "what a good system needs" and Slide 6 = "what our product does" - listing the same capabilities with different words. See `document-ads.md` for the differentiation rule.
 - **Does the progression follow the campaign formula?** (Hook -> Pain -> Shift -> Solution -> CTA)
 - **Is there a visual break?** Key statistics deserve a standalone slide, not burial in a paragraph.
 - **Can any slide be merged with its neighbor without losing information?** If yes, merge.
@@ -63,7 +63,7 @@ Ads are visual-first. If a slide or creative looks like a wall of text, people s
 - **Would someone swipe past this because it looks dense?** If a slide has 2+ paragraphs plus bullet points, it's too much.
 - **Are bullet lists inside content blocks?** Light-colored fills create visual separation and make bullets scannable. Check the brand palette for the right color.
 - **Are standalone stats given visual prominence?** See `document-ads.md` for specific sizing guidance.
-- **Does every slide have a design note?** The designer needs guidance — don't leave visual treatment to chance.
+- **Does every slide have a design note?** The designer needs guidance - don't leave visual treatment to chance.
 - **Does the color palette match the brand?** Check every specified color against the brand guide.
 - **Is there a visual anchor on product slides?** Screenshot or mockup options give flexibility.
 
@@ -72,10 +72,10 @@ Ads are visual-first. If a slide or creative looks like a wall of text, people s
 The ad must speak the audience's language, not the marketer's.
 
 - **Does the language match how the audience thinks?** Every role has its own frame. Use the audience's terminology and concerns, not generic business language. Check audience insights for specifics.
-- **Is the #1 pain point given appropriate prominence?** If audience research identified a primary pain point, it should be central — not one bullet among many.
+- **Is the #1 pain point given appropriate prominence?** If audience research identified a primary pain point, it should be central - not one bullet among many.
 - **Is the ad specific enough?** Technical audiences respect precision over generalities. Use concrete details the audience recognizes.
 - **Are industry terms used where the audience expects them?** Don't simplify jargon for an audience that uses those terms daily.
-- **Is the ad different from the other audience variant?** If you have multiple audience versions, each must speak to its audience's specific concerns — not just swap one word.
+- **Is the ad different from the other audience variant?** If you have multiple audience versions, each must speak to its audience's specific concerns - not just swap one word.
 
 ## Process Summary
 
@@ -87,4 +87,4 @@ The ad must speak the audience's language, not the marketer's.
 | 4. Design & Text Density | Would the audience actually read this? | Visual scan for walls of text, check brand palette |
 | 5. Audience Fit | Does it speak their language? | Check pain points, terminology, framing vs. audience insights |
 
-Run all 5 layers. Present findings organized by severity: Critical > Significant > Minor. Always include "What Works Well" — the audit should reinforce good decisions, not just flag problems.
+Run all 5 layers. Present findings organized by severity: Critical > Significant > Minor. Always include "What Works Well" - the audit should reinforce good decisions, not just flag problems.

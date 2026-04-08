@@ -12,7 +12,7 @@ After week 1, switch to manual CPC bidding at **20% below your average CPC** fro
 
 ### Exceptions
 
-- **Small retargeting/ABM audiences:** Keep automated bidding — manual bidding on tiny audiences causes underdelivery
+- **Small retargeting/ABM audiences:** Keep automated bidding - manual bidding on tiny audiences causes underdelivery
 - **New campaign objectives:** Reset to automated for the first week when changing objectives
 - **Undersized audiences (<10K):** May not spend full budgets regardless of bid amounts
 
@@ -72,7 +72,7 @@ Review audience penetration data to determine if budgets need adjusting:
 |-----------|----------------------|--------|
 | 30 days | Below 25% of audience | Increase budget |
 | 60 days | Below 40% of audience | Increase budget |
-| Target | 35%+ penetration | Healthy — maintain |
+| Target | 35%+ penetration | Healthy - maintain |
 
 **Key insight:** Doubling budget typically boosts penetration by 50-70%, not 100%. One well-budgeted campaign at 35%+ penetration outperforms three underfunded campaigns at 12% each.
 
@@ -92,9 +92,9 @@ LinkedIn's group budget feature lets the algorithm allocate budget across campai
 
 ### Caveats
 
-- **One objective per group** — can't mix reach + traffic objectives
-- **Algorithm favors cheaper audiences** — non-enterprise campaigns get the lion's share of budget in mixed groups
-- **Video bias** — if mixing static + video in one group, 80%+ budget may go to video
+- **One objective per group** - can't mix reach + traffic objectives
+- **Algorithm favors cheaper audiences** - non-enterprise campaigns get the lion's share of budget in mixed groups
+- **Video bias** - if mixing static + video in one group, 80%+ budget may go to video
 - **Recommendation:** Be as granular as possible. Don't mix enterprise + SMB campaigns, or static + video campaigns, in the same group
 
 ### Budget Approach for New Campaign Types

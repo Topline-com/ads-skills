@@ -1,4 +1,4 @@
-# Campaign Structure for B2B Meta Ads — High-ACV SaaS
+# Campaign Structure for B2B Meta Ads - High-ACV SaaS
 
 How to structure Meta campaigns for B2B SaaS with $30K+ ACV. Covers the three phases (ABO to CBO to Advantage+), campaign architecture, settings, and the 12-month scaling roadmap.
 
@@ -6,7 +6,7 @@ How to structure Meta campaigns for B2B SaaS with $30K+ ACV. Covers the three ph
 
 ## The Three Phases of Campaign Structure
 
-### Phase 1: Audience Validation (ABO — Ad Set Budget)
+### Phase 1: Audience Validation (ABO - Ad Set Budget)
 
 **Purpose:** Determine which audience sources produce quality leads before spending on creative testing.
 
@@ -23,11 +23,11 @@ Campaign: [Product] - Prospecting - Audience Validation
 ```
 
 **Critical settings:**
-- **Use Ad Set Budget (ABO), NOT CBO** — guarantees each audience gets dedicated budget. CBO would let Meta shift budget away from expensive-but-quality audiences.
-- Same ads across all ad sets — you're testing audiences, not creative
+- **Use Ad Set Budget (ABO), NOT CBO** - guarantees each audience gets dedicated budget. CBO would let Meta shift budget away from expensive-but-quality audiences.
+- Same ads across all ad sets - you're testing audiences, not creative
 - Equal budgets per ad set for fair comparison
 - Run for 2-4 weeks minimum
-- Turn off Advantage+ audience expansion — click "Further limit the reach" and select your specific audience per ad set
+- Turn off Advantage+ audience expansion - click "Further limit the reach" and select your specific audience per ad set
 
 **Validation criteria (check in CRM, not Ads Manager):**
 - Job title match to ICP
@@ -40,15 +40,15 @@ Campaign: [Product] - Prospecting - Audience Validation
 - Kill ad sets producing low-quality leads
 - Take winning audience(s) to Phase 2
 
-**Alternative (simpler test):** Two ad sets only — open/broad targeting vs. interest-based. After 2-4 weeks, compare which brings better results. Use the winner going forward.
+**Alternative (simpler test):** Two ad sets only - open/broad targeting vs. interest-based. After 2-4 weeks, compare which brings better results. Use the winner going forward.
 
-### Phase 2: Creative Scaling (CBO — Campaign Budget Optimization)
+### Phase 2: Creative Scaling (CBO - Campaign Budget Optimization)
 
 **Purpose:** Scale winning audiences through creative concept testing.
 
 **When to use:** After validating audience quality in Phase 1.
 
-**Structure (Option A — by concept):**
+**Structure (Option A - by concept):**
 ```
 Campaign: [Product] - Prospecting - CBO - [Winning Audience]
 -- Ad Set 1: UGC Concept                [CBO distributes budget]
@@ -59,7 +59,7 @@ Campaign: [Product] - Prospecting - CBO - [Winning Audience]
    -- 3-4 Problem/Solution variations
 ```
 
-**Structure (Option B — by batch):**
+**Structure (Option B - by batch):**
 ```
 Campaign: [Product] - Prospecting - CBO - [Winning Audience]
 -- Ad Set 1: Creative Batch 1 (mix of concepts)
@@ -68,7 +68,7 @@ Campaign: [Product] - Prospecting - CBO - [Winning Audience]
 ```
 
 **Critical settings:**
-- Use **Campaign Budget Optimization (CBO)** — let Meta shift budget to winning creative concepts
+- Use **Campaign Budget Optimization (CBO)** - let Meta shift budget to winning creative concepts
 - Target only the validated winning audience
 - Give each batch/concept 7-10 days minimum before judging
 - When a concept wins, create more variations of that concept
@@ -145,7 +145,7 @@ For a B2B SaaS running full-funnel Meta:
 
 ### Month 1: Remarketing
 - Lowest risk, highest ROI
-- People already know you — just stay top of mind
+- People already know you - just stay top of mind
 - Cross-channel remarketing amplifies existing LinkedIn/Google investment
 - Small budget required (audience is small)
 - Proves Meta works for your brand before committing prospecting budget
@@ -208,8 +208,8 @@ Examples:
 
 Retarget traffic from validated channels (LinkedIn, Google) on Meta at lower cost:
 
-1. Run ads on LinkedIn — traffic lands on website with LinkedIn UTMs
-2. In Meta: Audiences — Create — Custom Audience — Website — URL contains `utm_source=linkedin`
+1. Run ads on LinkedIn - traffic lands on website with LinkedIn UTMs
+2. In Meta: Audiences - Create - Custom Audience - Website - URL contains `utm_source=linkedin`
 3. Now retarget your LinkedIn-validated audience on Meta at 50-70% lower CPM
 4. Same works for Google traffic: `utm_source=google&utm_medium=cpc`
 
@@ -221,19 +221,19 @@ Retarget traffic from validated channels (LinkedIn, Google) on Meta at lower cos
 
 ## What to Avoid
 
-- **Mixing ABM and broad prospecting in one campaign** — completely different targeting logic, separate them
-- **Running CBO during audience validation** — CBO will shift budget to cheapest audience, which may not be the best quality
-- **Changing campaign settings during learning phase** — any significant edit resets the 50-conversion counter
-- **More than 5-6 ad sets per campaign** — dilutes signal, slows learning
-- **Optimizing for "Link Clicks" for B2B** — vanity metric; optimize for leads or conversions
+- **Mixing ABM and broad prospecting in one campaign** - completely different targeting logic, separate them
+- **Running CBO during audience validation** - CBO will shift budget to cheapest audience, which may not be the best quality
+- **Changing campaign settings during learning phase** - any significant edit resets the 50-conversion counter
+- **More than 5-6 ad sets per campaign** - dilutes signal, slows learning
+- **Optimizing for "Link Clicks" for B2B** - vanity metric; optimize for leads or conversions
 
 ---
 
 ## Related Files
 
-- **audience-strategy.md** — Data hierarchy, CRM lookalikes, third-party sources, validation criteria
-- **advantage-plus.md** — Full Advantage+ setup and when to use it
-- **offer-strategy.md** — What offers to run at each funnel stage
-- **creative-strategy.md** — What creative concepts to test
-- **optimization-playbook.md** — Weekly cadence, decision trees, scaling protocol
-- **message-validation.md** — How to score ads against revenue quality, not vanity metrics
+- **audience-strategy.md** - Data hierarchy, CRM lookalikes, third-party sources, validation criteria
+- **advantage-plus.md** - Full Advantage+ setup and when to use it
+- **offer-strategy.md** - What offers to run at each funnel stage
+- **creative-strategy.md** - What creative concepts to test
+- **optimization-playbook.md** - Weekly cadence, decision trees, scaling protocol
+- **message-validation.md** - How to score ads against revenue quality, not vanity metrics

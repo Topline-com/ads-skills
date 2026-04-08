@@ -6,8 +6,8 @@ Python scripts for the LinkedIn Marketing API (v202601).
 
 | Script | Purpose |
 |--------|---------|
-| `linkedin_api.py` | Core API client class — accounts, campaigns, creatives, analytics |
-| `oauth_server.py` | OAuth 2.0 token flow — run once to get your access token |
+| `linkedin_api.py` | Core API client class - accounts, campaigns, creatives, analytics |
+| `oauth_server.py` | OAuth 2.0 token flow - run once to get your access token |
 
 ## Setup
 

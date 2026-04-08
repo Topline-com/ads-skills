@@ -6,13 +6,13 @@ Landing pages are the other half of ad performance. A great ad sending traffic t
 
 ### Problem-Aware (TOF traffic)
 
-These visitors are early — they're exploring a pain, not shopping for a product.
+These visitors are early - they're exploring a pain, not shopping for a product.
 
 **Page direction:**
-- Problem validation and user empathy — show you understand their world
+- Problem validation and user empathy - show you understand their world
 - Outcome-focused testimonials or stories (not product features)
-- Introductory brand messaging — build familiarity, not hard sell
-- Before/After transformation visuals — "this is your life now vs what it could be"
+- Introductory brand messaging - build familiarity, not hard sell
+- Before/After transformation visuals - "this is your life now vs what it could be"
 
 **Where to send them:** Homepage or content hub. NOT a demo page.
 
@@ -53,13 +53,13 @@ These visitors are close to deciding. They need reassurance and a push.
 **Competitor-focused pages:**
 - Build comparison landing pages for Solution-Aware audiences
 - Include comparison tables, feature checklists
-- Add customer testimonials specifically from switchers — "Why [Company] moved from [Competitor] to us"
+- Add customer testimonials specifically from switchers - "Why [Company] moved from [Competitor] to us"
 - Embed customer video reviews if available
 
 **Retargeting-specific pages:**
 - Display USPs and social proof prominently
 - Show customer logos and specific results
-- Make the CTA frictionless — pre-filled forms, short Lead Gen Forms
+- Make the CTA frictionless - pre-filled forms, short Lead Gen Forms
 - Personalize by industry or use case if possible
 
 ## Lead Gen Form Optimization
@@ -73,8 +73,8 @@ LinkedIn Lead Gen Forms bypass the landing page entirely. When to use them:
 
 **Form design rules:**
 - Keep to 3-5 fields maximum
-- Use LinkedIn auto-fill fields (name, email, job title, company) — reduces friction
-- Custom questions should be minimal — one qualifying question at most
+- Use LinkedIn auto-fill fields (name, email, job title, company) - reduces friction
+- Custom questions should be minimal - one qualifying question at most
 - Thank-you message should set expectations: "We'll reach out within 24 hours"
 - Document ads + Lead Gen Forms for demo page visitors can yield 2.5x higher demo-to-close rate
 

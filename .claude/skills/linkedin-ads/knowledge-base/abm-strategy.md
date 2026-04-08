@@ -4,7 +4,7 @@ How to run Account-Based Marketing campaigns on LinkedIn effectively. Based on $
 
 ## Core Principle
 
-ABM campaigns are not just about targeting your ideal accounts — they're about reaching them. A perfectly targeted list that only reaches 15% of its companies is wasting 85% of its potential.
+ABM campaigns are not just about targeting your ideal accounts - they're about reaching them. A perfectly targeted list that only reaches 15% of its companies is wasting 85% of its potential.
 
 ## ABM Campaign Types
 
@@ -24,9 +24,9 @@ ABM campaigns are not just about targeting your ideal accounts — they're about
 
 Company lists are generally preferred for ABM campaigns for three reasons:
 
-1. **Easier to obtain** — Contact lists require accurate business emails that match LinkedIn profiles
-2. **Better matching** — LinkedIn matches company names more reliably than individual email addresses to profiles
-3. **Less maintenance** — People constantly leave and join companies; company lists stay relevant longer
+1. **Easier to obtain** - Contact lists require accurate business emails that match LinkedIn profiles
+2. **Better matching** - LinkedIn matches company names more reliably than individual email addresses to profiles
+3. **Less maintenance** - People constantly leave and join companies; company lists stay relevant longer
 
 ### Contact Lists
 
@@ -76,7 +76,7 @@ Real performance data comparison:
 | Metric | Native Targeting | List-Level Targeting |
 |--------|-----------------|---------------------|
 | CPM | Baseline | ~50% cheaper |
-| Decision-maker interaction | Lower | Higher — more decision-makers engaged |
+| Decision-maker interaction | Lower | Higher - more decision-makers engaged |
 | Individual contributor interaction | Higher | Lower |
 
 **Why list-based is cheaper:** ABM campaigns using company lists expose your ICP to your product at a lower distribution cost. The list provides LinkedIn with a clearer signal for ad delivery.
@@ -93,9 +93,9 @@ Large lists with a mix of company types and sizes cause problems:
 
 | Segment | List | Campaign |
 |---------|------|----------|
-| Enterprise (500+ employees) | List A | Campaign A — higher budget per account |
-| Mid-Market (200-500) | List B | Campaign B — moderate budget per account |
-| SMB (0-200) | List C | Campaign C — efficient budget per account |
+| Enterprise (500+ employees) | List A | Campaign A - higher budget per account |
+| Mid-Market (200-500) | List B | Campaign B - moderate budget per account |
+| SMB (0-200) | List C | Campaign C - efficient budget per account |
 
 Or segment by:
 - Industry vertical
@@ -125,24 +125,24 @@ Or segment by:
 
 - Use broader company lists (industry-based)
 - Layer with job function + seniority targeting for precision
-- Monitor demographics report for irrelevant titles — add negative filters
+- Monitor demographics report for irrelevant titles - add negative filters
 - Scale by splitting into region-specific or size-specific sub-campaigns
 
 ## ABM Budget Considerations
 
-- 1:1 accounts: Higher cost per account is acceptable — the deal value justifies it
+- 1:1 accounts: Higher cost per account is acceptable - the deal value justifies it
 - 1:few: Budget should ensure each account gets meaningful impression share
 - 1:many: Treat more like scaled prospecting with list-based precision
-- Always monitor per-company reach — if budget is spread too thin, accounts won't get enough impressions to matter
+- Always monitor per-company reach - if budget is spread too thin, accounts won't get enough impressions to matter
 
 ## Account List Building Best Practices
 
-Building the right account list is the foundation of ABM. Don't just pull a random list — build it strategically.
+Building the right account list is the foundation of ABM. Don't just pull a random list - build it strategically.
 
 **Sources for building ABM lists:**
 - Work with sales team to identify highest-value target accounts
-- Analyze closed-won deals — what do your best customers have in common?
-- Check late-stage pipeline — which account types consistently progress?
+- Analyze closed-won deals - what do your best customers have in common?
+- Check late-stage pipeline - which account types consistently progress?
 - Use intent data platforms to identify accounts actively researching your category
 - Review competitor customer lists for poachable accounts
 
@@ -170,7 +170,7 @@ Building the right account list is the foundation of ABM. Don't just pull a rand
 
 For whale accounts, create ads that include the target company's name and/or logo directly in the ad creative. This hyper-personalization dramatically increases engagement.
 
-**Performance:** Personalized 1:1 ABM ads see 5-10% CTR vs 0.5-1% standard CTR — a 5-10x improvement in click-through rate.
+**Performance:** Personalized 1:1 ABM ads see 5-10% CTR vs 0.5-1% standard CTR - a 5-10x improvement in click-through rate.
 
 **Best practices:**
 - Include the company name in the ad headline or creative image
@@ -178,7 +178,7 @@ For whale accounts, create ads that include the target company's name and/or log
 - Use dynamic creative tools to scale personalization across multiple accounts
 - Works best for MarTech, SalesTech, and Customer Success tools where the value prop is clear per account
 
-**Legal restriction:** Do not use personalized company name/logo ads in Germany — German privacy regulations restrict this type of targeting. This is a legal issue, not a LinkedIn policy issue.
+**Legal restriction:** Do not use personalized company name/logo ads in Germany - German privacy regulations restrict this type of targeting. This is a legal issue, not a LinkedIn policy issue.
 
 ## Ad Engagement as Sales Trigger
 
@@ -223,7 +223,7 @@ Create separate remarketing audiences specifically for ABM accounts. Don't mix A
 
 ## ABM as Multi-Channel Orchestration
 
-LinkedIn Ads are one part of a comprehensive ABM strategy — not the whole thing. The most effective ABM programs orchestrate multiple touchpoints.
+LinkedIn Ads are one part of a comprehensive ABM strategy - not the whole thing. The most effective ABM programs orchestrate multiple touchpoints.
 
 **Channels to coordinate with LinkedIn ABM:**
 - Sales outreach (email, phone, LinkedIn InMail) timed with ad campaigns
@@ -244,7 +244,7 @@ When running ABM across multiple LinkedIn ad accounts (e.g., by region), use Bus
 
 ## Related Files
 
-- **scaling-strategy.md** — Scaling progression and campaign group methodology
-- **audience-sizing.md** — Audience sizing rules and minimum thresholds
-- **campaign-structures.md** — Campaign group models and naming conventions
-- **full-funnel-framework.md** — Budget allocation by funnel stage
+- **scaling-strategy.md** - Scaling progression and campaign group methodology
+- **audience-sizing.md** - Audience sizing rules and minimum thresholds
+- **campaign-structures.md** - Campaign group models and naming conventions
+- **full-funnel-framework.md** - Budget allocation by funnel stage

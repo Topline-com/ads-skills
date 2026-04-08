@@ -2,7 +2,7 @@
 
 ## Why Scaling Is Complex
 
-Scaling is not easy — "just do more of what's working" is oversimplified. The Scaling Quadrant helps answer: how do I scale when I have no budget? Or when I have budget but no time?
+Scaling is not easy - "just do more of what's working" is oversimplified. The Scaling Quadrant helps answer: how do I scale when I have no budget? Or when I have budget but no time?
 
 ## The Scaling Quadrant Overview
 
@@ -13,9 +13,9 @@ Scaling is not easy — "just do more of what's working" is oversimplified. The 
 
 | Quadrant | Position | What It Means |
 |----------|----------|---------------|
-| AU (Audiences) | Top-Left (High Budget, Low Effort) | Scale through audiences — increasing audience size/frequency, adding more audience segments |
-| GEO (Geography) | Top-Right (High Budget, High Effort) | Scale through geography — reach new countries/regions |
-| AD (Ads) | Bottom-Left (Low Budget, Low Effort) | Scale by improving ads — new creative/messaging, testing ad types |
+| AU (Audiences) | Top-Left (High Budget, Low Effort) | Scale through audiences - increasing audience size/frequency, adding more audience segments |
+| GEO (Geography) | Top-Right (High Budget, High Effort) | Scale through geography - reach new countries/regions |
+| AD (Ads) | Bottom-Left (Low Budget, Low Effort) | Scale by improving ads - new creative/messaging, testing ad types |
 | O&B (Objectives & Bids) | Bottom-Right (Low Budget, High Effort) | Scale by changing campaign objectives & bid strategies |
 
 ## When to Use Each Quadrant
@@ -52,4 +52,4 @@ Budget is the fuel that powers your paid media program. To get more, build a cas
 
 ### Step 3: Present Your Case
 
-Data alone won't persuade. Stories without data are subject to suspicion. Combine both to address stakeholder concerns and build certainty. Your stakeholders want you to be right — they're analyzing upside and downside like investors. Make the case compelling enough that they feel certain about the return.
+Data alone won't persuade. Stories without data are subject to suspicion. Combine both to address stakeholder concerns and build certainty. Your stakeholders want you to be right - they're analyzing upside and downside like investors. Make the case compelling enough that they feel certain about the return.

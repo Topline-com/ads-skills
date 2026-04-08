@@ -7,11 +7,11 @@ description: |
 
 # Meta Ads Management for B2B
 
-Orchestrator for all Meta Ads (Facebook/Instagram) tasks. Meta Ads for B2B can deliver half the cost per lead and lower cost per qualified opportunity compared to LinkedIn — but only when audience data quality is right and creative does the targeting work.
+Orchestrator for all Meta Ads (Facebook/Instagram) tasks. Meta Ads for B2B can deliver half the cost per lead and lower cost per qualified opportunity compared to LinkedIn - but only when audience data quality is right and creative does the targeting work.
 
 ## Methodology
 
-This skill implements the Ivan Falco B2B demand generation methodology for Meta — a data-first, creative-as-targeting approach that leverages Meta's algorithm (Andromeda + Gem) with high-quality audience inputs and systematic creative testing.
+This skill implements the Ivan Falco B2B demand generation methodology for Meta - a data-first, creative-as-targeting approach that leverages Meta's algorithm (Andromeda + Gem) with high-quality audience inputs and systematic creative testing.
 
 ## Core Philosophy
 
@@ -62,7 +62,7 @@ These files provide detailed methodology on specific topics. The OS drives decis
 
 4. **Creative concept testing, not micro-variations.** Test dramatically different concepts (UGC vs before/after vs meme vs product demo), not minor tweaks (blue vs green button). The algorithm needs creative diversity to learn.
 
-5. **Creative IS targeting on Meta.** Your ad copy must explicitly call out who the ad is for. When running broader audiences, the creative does the filtering work — it should act as "mosquito repellent" for non-ICP.
+5. **Creative IS targeting on Meta.** Your ad copy must explicitly call out who the ad is for. When running broader audiences, the creative does the filtering work - it should act as "mosquito repellent" for non-ICP.
 
 6. **Lead forms need intentional friction for B2B.** Always require work email validation. Add 1-3 custom qualification questions. Use Higher Intent form type. This combats social amnesia and improves lead quality.
 
@@ -70,19 +70,19 @@ These files provide detailed methodology on specific topics. The OS drives decis
 
 8. **Cross-channel remarketing is a superpower.** Create Meta retargeting audiences from LinkedIn/Google traffic using UTM parameters. You retarget validated audiences on Meta at a fraction of the cost.
 
-9. **Broad targeting only works for large TAM.** If you're doing ABM or targeting niche enterprise, broad will not work — stick to Tier 1 and Tier 2 data sources. Broad is for SMB/lower mid-market with massive addressable markets.
+9. **Broad targeting only works for large TAM.** If you're doing ABM or targeting niche enterprise, broad will not work - stick to Tier 1 and Tier 2 data sources. Broad is for SMB/lower mid-market with massive addressable markets.
 
-10. **Meta's algorithm (Andromeda + Gem) needs creative volume.** Maintain 4-6 unique creative concepts per campaign. The algorithm processes ads to learn what works — more diverse inputs = better optimization.
+10. **Meta's algorithm (Andromeda + Gem) needs creative volume.** Maintain 4-6 unique creative concepts per campaign. The algorithm processes ads to learn what works - more diverse inputs = better optimization.
 
 ## Key Differences from LinkedIn
 
 | Aspect | Meta | LinkedIn |
 |--------|------|----------|
-| Native B2B targeting | Weak — bring your own data | Strong — job title, company, seniority |
+| Native B2B targeting | Weak - bring your own data | Strong - job title, company, seniority |
 | Cost per lead | ~50% of LinkedIn | Higher but more precise |
-| Algorithm role | Heavy — drives targeting through creative signals | Light — advertiser controls targeting |
+| Algorithm role | Heavy - drives targeting through creative signals | Light - advertiser controls targeting |
 | Creative volume needed | High (4-6+ unique concepts) | Moderate (4-6 per campaign) |
-| Remarketing strength | Excellent — cheap, cross-platform omnipresence | Good but more expensive |
+| Remarketing strength | Excellent - cheap, cross-platform omnipresence | Good but more expensive |
 | Lead form quality | Requires friction management (social amnesia risk) | Higher quality by default (work email auto-fill) |
 | Best for | Large TAM, SMB/mid-market, remarketing, pipeline acceleration | Enterprise, ABM, precise ICP targeting |
 
@@ -95,7 +95,7 @@ These files provide detailed methodology on specific topics. The OS drives decis
 
 ## When to Combine with LinkedIn
 
-Meta and LinkedIn are not competitors — they're complementary channels:
+Meta and LinkedIn are not competitors - they're complementary channels:
 
 - **LinkedIn for precision prospecting** (right person, right company) + **Meta for cheap remarketing** (stay top of mind across platforms)
 - **LinkedIn for ABM** (company-level targeting) + **Meta for ABM extension** (via third-party tools like Primer/Metadata.io)

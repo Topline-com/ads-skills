@@ -11,8 +11,8 @@ Go through each item. Mark as Pass/Fail/NA. For any Fail, document the action ne
 | # | Check | Description | Priority |
 |---|-------|-------------|----------|
 | 1.1 | LinkedIn Insight Tag installed and firing | Verifies accurate visitor and conversion tracking | Essential |
-| 1.2 | Primary conversion events firing on actual completion | Signup, demo, free trial — must fire on success, not button click | Essential |
-| 1.3 | Secondary conversion events set up | Contact form, asset download — supplementary tracking | Preferred |
+| 1.2 | Primary conversion events firing on actual completion | Signup, demo, free trial - must fire on success, not button click | Essential |
+| 1.3 | Secondary conversion events set up | Contact form, asset download - supplementary tracking | Preferred |
 | 1.4 | Conversions trigger on successful completion (not button click) | Ensures conversions = real actions, not just intent | Essential |
 | 1.5 | Correct conversion event selected at campaign level | Each campaign aligned with appropriate conversion action | Essential |
 | 1.6 | UTM parameters on all ad URLs | Enables tracking in analytics tools (GA4, etc.) | Essential |
@@ -33,16 +33,16 @@ Go through each item. Mark as Pass/Fail/NA. For any Fail, document the action ne
 |---|-------|-------------|----------|
 | 3.1 | Audience Expansion de-selected | Avoids overly broad targeting | Preferred |
 | 3.2 | LinkedIn Audience Network de-selected | Avoids irrelevant placements | Essential |
-| 3.3 | Not using age, gender, or language targeting | LinkedIn has limited data on these — restricts delivery | Essential |
+| 3.3 | Not using age, gender, or language targeting | LinkedIn has limited data on these - restricts delivery | Essential |
 | 3.4 | Audiences narrowed using AND (not OR) | More specific targeting | Preferred |
-| 3.5 | Campaigns grouped by similar countries | Better budget control — CPAs vary significantly by region | Preferred |
+| 3.5 | Campaigns grouped by similar countries | Better budget control - CPAs vary significantly by region | Preferred |
 | 3.6 | Lookalike audiences tested | Expands reach based on successful audiences | Preferred |
 | 3.7 | Prospecting audiences have 100K+ users | Wide enough reach while maintaining specificity | Preferred |
-| 3.8 | Website visitors excluded from prospecting campaigns | Avoids wasted spend — visitors go to retargeting | Essential |
+| 3.8 | Website visitors excluded from prospecting campaigns | Avoids wasted spend - visitors go to retargeting | Essential |
 | 3.9 | Converted audiences excluded from ALL campaigns | Avoids re-targeting people who already converted | Essential |
 | 3.10 | Lookalikes not mixed with job title/skill audiences in same ad set | Prevents overlap and dilution | Essential |
 | 3.11 | Campaign naming matches actual targeting in ad sets | Clarity between names and settings | Essential |
-| 3.12 | Unpaid and entry-level seniority excluded | Focus spend on qualified audiences (only applies when using seniority-based targeting, not job title targeting — these are mutually exclusive) | Optional |
+| 3.12 | Unpaid and entry-level seniority excluded | Focus spend on qualified audiences (only applies when using seniority-based targeting, not job title targeting - these are mutually exclusive) | Optional |
 | 3.13 | Agency and business employees excluded | Focus spend on qualified audiences | Preferred |
 
 ## 4. Creatives & Ads

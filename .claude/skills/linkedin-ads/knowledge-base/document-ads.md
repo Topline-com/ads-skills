@@ -1,6 +1,6 @@
-# Document Ads — Best Practices
+# Document Ads - Best Practices
 
-LinkedIn document ads (carousel format) let users swipe through multiple slides directly in the feed. Strong for MOF nurture — they educate, build trust, and retarget well.
+LinkedIn document ads (carousel format) let users swipe through multiple slides directly in the feed. Strong for MOF nurture - they educate, build trust, and retarget well.
 
 ## Format & Specs
 
@@ -8,7 +8,7 @@ LinkedIn document ads (carousel format) let users swipe through multiple slides 
 - **Slide count:** 5-7 for MOF. More than 7 risks drop-off. Fewer than 5 feels thin.
 - **File format:** PDF upload (each page = one slide)
 - **Can be gated** (Lead Gen Form) or ungated
-- **Post body:** Visible above the carousel in the feed. Keep concise — tease the content, don't summarize it.
+- **Post body:** Visible above the carousel in the feed. Keep concise - tease the content, don't summarize it.
 
 ## 7-Slide Campaign Formula
 
@@ -27,7 +27,7 @@ Tested structure for MOF document ads:
 This is the most common structural mistake. Slide 5 describes what any capable system needs (generic requirements). Slide 6 describes what the specific product delivers (unique differentiators). If both slides list the same capabilities with different words, merge or differentiate.
 
 **Good differentiation example:**
-- Slide 5: "Multilingual content management — all language versions in one place" (what any solution needs)
+- Slide 5: "Multilingual content management - all language versions in one place" (what any solution needs)
 - Slide 6: "24 languages with automatic redirection based on user location" (what THIS product uniquely does)
 
 **Bad (redundant):**
@@ -40,7 +40,7 @@ This is the most common structural mistake. Slide 5 describes what any capable s
 If you can't state the purpose in 5 words, the slide is unfocused. Write the purpose before writing the copy.
 
 ### Use the brand's actual bridge phrases
-The transition from education to product is critical. Never introduce the product cold. Every brand has a characteristic way of bridging — check the brand's tone profile for their specific pattern. Without a bridge, the product slide feels like a pitch instead of a logical conclusion.
+The transition from education to product is critical. Never introduce the product cold. Every brand has a characteristic way of bridging - check the brand's tone profile for their specific pattern. Without a bridge, the product slide feels like a pitch instead of a logical conclusion.
 
 ### CTA slides: declarative, not interrogative
 Don't use questions in CTA slides ("If you've ever dealt with...") unless the brand explicitly uses that pattern. Use:
@@ -58,7 +58,7 @@ A powerful stat buried in a paragraph is wasted. Give it a standalone visual bre
 ### Post body conventions
 - Tease the content, don't summarize all 7 slides
 - Match the brand's formatting conventions (check brand profile for specific symbols/formatting they use)
-- Match the tone of the slides — the post body and carousel should feel like one piece
+- Match the tone of the slides - the post body and carousel should feel like one piece
 
 ## Design Principles
 
@@ -83,7 +83,7 @@ Always provide:
 This gives flexibility for when the real screenshot isn't available yet.
 
 ### Flow diagrams > text descriptions
-When showing processes or chains, use a visual diagram with connected nodes. Don't describe a process flow in a paragraph — show it.
+When showing processes or chains, use a visual diagram with connected nodes. Don't describe a process flow in a paragraph - show it.
 
 ## Common Mistakes
 
@@ -105,7 +105,7 @@ When creating the same document ad for multiple audience segments:
 | Element | Shared | Different |
 |---------|--------|-----------|
 | Slide 1 (Hook) | Format, design | Headline, subtitle, pain angle |
-| Slides 2-3 (Pain) | — | Fully different — each audience has different daily frustrations |
+| Slides 2-3 (Pain) | - | Fully different - each audience has different daily frustrations |
 | Slide 4 (Principle) | Can share the concept | Framing differs per audience's primary concern |
 | Slides 5-6 (Product) | Product capabilities are the same | Framing emphasizes what matters most to each audience |
 | Slide 7 (CTA) | CTA action (book demo) | Opening statement tailored to audience role |

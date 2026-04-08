@@ -83,7 +83,7 @@ Consistent naming is critical for reporting, filtering, and management at scale.
 
 Two conventions in use. Choose based on how you're structuring:
 
-**Convention A — Stage + Awareness (5-Stage Demand Engine template):**
+**Convention A - Stage + Awareness (5-Stage Demand Engine template):**
 Format: `[Region] - [Stage] - [Awareness] - [Type] - {Detail}`
 
 Examples:
@@ -92,7 +92,7 @@ Examples:
 - `NA - Activate - Offer Aware - Remarketing (Free Users)`
 - `NA - Revive - Offer Aware - Remarketing (Closed Lost)`
 
-**Convention B — Product/Persona focused (simpler):**
+**Convention B - Product/Persona focused (simpler):**
 Format: `[Region] | [Product/Persona] | [Funnel Stage]`
 
 Examples:
@@ -154,31 +154,31 @@ Different campaign types (static, video, document, carousel, conversation, messa
 - Current campaign meeting/exceeding KPIs (audience is receptive, test more)
 - Current campaign underperforming with no obvious issues (audience not receptive to format, try different)
 
-**Campaign group budget option:** LinkedIn's campaign group budget lets the algorithm split budget between campaigns in a group. Caveat: LinkedIn favors video ads — you may see 80%+ of budget go to video when mixing static + video. For full budget control, use separate campaigns. See scaling-strategy.md for detailed findings.
+**Campaign group budget option:** LinkedIn's campaign group budget lets the algorithm split budget between campaigns in a group. Caveat: LinkedIn favors video ads - you may see 80%+ of budget go to video when mixing static + video. For full budget control, use separate campaigns. See scaling-strategy.md for detailed findings.
 
 ## Scaling the Group Structure
 
 As you scale, group naming should evolve in layers:
 
-**Level 1 — Persona + Intent:**
+**Level 1 - Persona + Intent:**
 - `Marketing - Awareness`
 - `Marketing - Remarketing`
 - `Sales - Awareness`
 - `Sales - Remarketing`
 
-**Level 2 — Add campaign group type:**
+**Level 2 - Add campaign group type:**
 - `Sales - Awareness - Product Value`
 - `Sales - Awareness - Content`
 - `Sales - Remarketing - Demo`
 - `Sales - Remarketing - Case Studies`
 
-**Level 3 — Add region:**
+**Level 3 - Add region:**
 - `Sales - Awareness - EMEA - Content`
 
-**Level 4 — Add company size:**
+**Level 4 - Add company size:**
 - `Sales - Awareness - Product Value - Enterprise`
 
-**Level 5 — Add audience segment:**
+**Level 5 - Add audience segment:**
 - `Sales - Awareness - Product Value - Enterprise - Decision Makers`
 
 Under each group: individual campaigns with different creative types (static, video, document campaigns).
@@ -190,8 +190,8 @@ Under each group: individual campaigns with different creative types (static, vi
 ## Creative Rotation Configuration
 
 When launching new ads within a campaign:
-1. **Start with even rotation** — so each ad gets equal budget
-2. **After 7-10 days** — check the data to see which ads perform best
-3. **Then switch to auto rotation** — let the algorithm optimize delivery toward winners
+1. **Start with even rotation** - so each ad gets equal budget
+2. **After 7-10 days** - check the data to see which ads perform best
+3. **Then switch to auto rotation** - let the algorithm optimize delivery toward winners
 
 This prevents the algorithm from prematurely picking a "winner" before enough data is collected.

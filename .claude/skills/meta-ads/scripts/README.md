@@ -43,7 +43,7 @@ python ad_scheduler.py run   # Execute pending pauses (run via cron)
 
 ## Notes
 
-- Always use Python for Meta API calls (never curl — token characters get mangled)
+- Always use Python for Meta API calls (never curl - token characters get mangled)
 - Token expires every ~60 days. Refresh at https://developers.facebook.com/tools/explorer/
 - Budgets are in cents (5000 = $50.00)
 - Always create campaigns/ads as PAUSED, never ACTIVE

@@ -1,4 +1,4 @@
-# Meta Ads Setup & Tracking — Implementation Guide
+# Meta Ads Setup & Tracking - Implementation Guide
 
 Step-by-step setup to run your first B2B campaign on Meta. Use this when you already have access and need to configure tracking, then launch. For campaign strategy (audience hierarchy, ABO vs CBO, creative), see the other knowledge-base files.
 
@@ -18,7 +18,7 @@ Step-by-step setup to run your first B2B campaign on Meta. Use this when you alr
 ### 1.1 Create the pixel (if you don't have one)
 
 1. **Events Manager** → Data Sources → **Add new data source** → **Website** → **Connect**.
-2. Choose **Meta Pixel** → name it (e.g. "[Business] – Main Website") → **Create Pixel**.
+2. Choose **Meta Pixel** → name it (e.g. "[Business] - Main Website") → **Create Pixel**.
 3. Note your **Pixel ID** (shown in the pixel details). You'll use it in the base code or in tag managers.
 
 ### 1.2 Install the pixel on the website
@@ -58,8 +58,8 @@ The pixel base code sends PageView by default. For lead-gen and B2B, you need **
 
 ### 2.1 Which events to use
 
-- **Lead** — Form submit, demo request, "contact us," lead gen form submit, etc.
-- **CompleteRegistration** — Sign-up, account creation, webinar registration (if you treat that as a key conversion).
+- **Lead** - Form submit, demo request, "contact us," lead gen form submit, etc.
+- **CompleteRegistration** - Sign-up, account creation, webinar registration (if you treat that as a key conversion).
 
 Set the event to fire when the action **actually completes** (e.g. after form validation, on the thank-you page or success callback), not on button click.
 
@@ -91,15 +91,15 @@ Required for reliable conversion matching, some advanced features, and controlli
 
 1. **Business Settings** → **Brand Safety** → **Domains** → **Add** → enter the domain (e.g. `yourcompany.com`).
 2. Choose **one** verification method:
-   - **DNS (TXT record)** — Add the TXT record at your DNS host; then in Meta click **Verify**.
-   - **Meta tag in `<head>`** — Add the meta tag to the homepage `<head>`; then **Verify**.
-   - **HTML file upload** — Download the file, upload to the site root, then **Verify**.
+   - **DNS (TXT record)** - Add the TXT record at your DNS host; then in Meta click **Verify**.
+   - **Meta tag in `<head>`** - Add the meta tag to the homepage `<head>`; then **Verify**.
+   - **HTML file upload** - Download the file, upload to the site root, then **Verify**.
 
 Verification can take a few minutes to 72 hours depending on DNS propagation. Verify before scaling spend.
 
 ---
 
-## 4. Conversions API (CAPI) — Optional but Recommended for B2B
+## 4. Conversions API (CAPI) - Optional but Recommended for B2B
 
 Browser blockers and privacy features can block or delay pixel events. **Conversions API** sends the same events from your server to Meta, so you get more complete and reliable data.
 
@@ -121,7 +121,7 @@ If you're not ready to implement CAPI, you can launch with pixel-only and add CA
 
 ---
 
-## 6. Running Your First Campaign — Checklist
+## 6. Running Your First Campaign - Checklist
 
 Use this as a quick sequence; details are in the other KB files.
 
@@ -129,11 +129,11 @@ Use this as a quick sequence; details are in the other KB files.
 |------|------------|-----------|
 | 1 | Start with **Remarketing** (website visitors). Create a campaign with objective **Leads** (or **Sales** if you use a landing page and optimize for a conversion event). | campaign-structure.md |
 | 2 | Set **audience** to a website visitor Custom Audience (e.g. 90-day). Set a small daily budget. | audience-strategy.md |
-| 3 | Choose **Lead Gen Form** or **landing page**. For in-Meta forms: **Higher Intent** form type, **Work email** required, 1–3 custom qualification questions. | lead-form-optimization.md |
-| 4 | Use **4–6 distinct creative concepts** (not micro-variations). Copy must clearly state who the ad is for. | creative-strategy.md |
+| 3 | Choose **Lead Gen Form** or **landing page**. For in-Meta forms: **Higher Intent** form type, **Work email** required, 1-3 custom qualification questions. | lead-form-optimization.md |
+| 4 | Use **4-6 distinct creative concepts** (not micro-variations). Copy must clearly state who the ad is for. | creative-strategy.md |
 | 5 | **Placements:** Default Advantage+ is fine if you have placement-appropriate creative (e.g. 9:16 for Stories/Reels). Otherwise limit placements. | campaign-structure.md |
 | 6 | **Naming:** Use a clear convention, e.g. `[Product] - Remarketing - Website 90d`. | campaign-structure.md |
-| 7 | Launch, then **test**: submit a test lead and confirm it appears in Events Manager and in your lead destination (CRM/integration). | — |
+| 7 | Launch, then **test**: submit a test lead and confirm it appears in Events Manager and in your lead destination (CRM/integration). | - |
 
 When remarketing is running and you're ready to add cold traffic, follow **audience-strategy.md** (audience validation with ABO, then scale winners with CBO) and **campaign-structure.md** (roadmap and structure).
 
@@ -148,15 +148,15 @@ When remarketing is running and you're ready to add cold traffic, follow **audie
 - [ ] Domain(s) verified in Business Settings
 - [ ] At least one remarketing audience (e.g. 90-day website visitors)
 - [ ] Exclusions (e.g. employees) if applicable
-- [ ] Lead form (Higher Intent, work email, 1–3 questions) or landing page with tracked conversion
+- [ ] Lead form (Higher Intent, work email, 1-3 questions) or landing page with tracked conversion
 - [ ] Test conversion submitted and visible in Events Manager and CRM
 
 ---
 
 ## Related Files
 
-- **audience-strategy.md** — Data hierarchy, lookalikes, third-party data, validation
-- **campaign-structure.md** — Campaign types, remarketing → prospecting → acceleration, ABO/CBO/Advantage+
-- **lead-form-optimization.md** — Form type, work email, custom questions, friction
-- **creative-strategy.md** — Creative-as-targeting, concept testing, placements
-- **optimization-playbook.md** — Decision trees, weekly cadence, scaling protocol
+- **audience-strategy.md** - Data hierarchy, lookalikes, third-party data, validation
+- **campaign-structure.md** - Campaign types, remarketing → prospecting → acceleration, ABO/CBO/Advantage+
+- **lead-form-optimization.md** - Form type, work email, custom questions, friction
+- **creative-strategy.md** - Creative-as-targeting, concept testing, placements
+- **optimization-playbook.md** - Decision trees, weekly cadence, scaling protocol

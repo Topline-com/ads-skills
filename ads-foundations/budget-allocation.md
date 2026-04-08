@@ -32,4 +32,4 @@ Strategy is a series of strategic bets. Work from bottom of the 5-Stage Demand E
 
 ## Important Notes
 
-Budget will change over time — these are starting points. As your data improves and you understand what's working, you'll adjust allocations based on performance and business priorities.
+Budget will change over time - these are starting points. As your data improves and you understand what's working, you'll adjust allocations based on performance and business priorities.

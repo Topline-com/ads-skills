@@ -1,4 +1,4 @@
-# ABM on Meta — Account-Based Marketing Playbook for B2B SaaS
+# ABM on Meta - Account-Based Marketing Playbook for B2B SaaS
 
 How to run Account-Based Marketing on Meta for B2B SaaS and B2B tech companies. Covers the full workflow: data enrichment, audience building, campaign structure, acceleration campaigns, cross-channel coordination with LinkedIn, and measurement.
 
@@ -40,11 +40,11 @@ How to run Account-Based Marketing on Meta for B2B SaaS and B2B tech companies. 
 
 ### Primer to Meta Workflow (Step by Step)
 
-1. **Sync account list** from CRM (Salesforce/HubSpot) — Primer ingests company domains, employee lists, firmographic data
-2. **Define champion personas** — filter by role (VP, Director, C-suite), department, seniority
-3. **Identity graph matching** — Primer maps corporate identity to personal social profiles across devices
-4. **Multi-channel activation** — upload matched audiences to Meta, LinkedIn, YouTube, Reddit simultaneously
-5. **Measurement** — Conversion maps, website reveal (which accounts visit pre-form fill), incrementality via holdout groups
+1. **Sync account list** from CRM (Salesforce/HubSpot) - Primer ingests company domains, employee lists, firmographic data
+2. **Define champion personas** - filter by role (VP, Director, C-suite), department, seniority
+3. **Identity graph matching** - Primer maps corporate identity to personal social profiles across devices
+4. **Multi-channel activation** - upload matched audiences to Meta, LinkedIn, YouTube, Reddit simultaneously
+5. **Measurement** - Conversion maps, website reveal (which accounts visit pre-form fill), incrementality via holdout groups
 
 ### Metadata.io to Meta Workflow
 
@@ -71,19 +71,19 @@ How to run Account-Based Marketing on Meta for B2B SaaS and B2B tech companies. 
 ### Architecture
 
 ```
-Campaign 1: ABM — Top of Funnel (Awareness)
-  Ad Set: Tier A Accounts — Decision Makers
-  Ad Set: Tier B Accounts — Decision Makers
+Campaign 1: ABM - Top of Funnel (Awareness)
+  Ad Set: Tier A Accounts - Decision Makers
+  Ad Set: Tier B Accounts - Decision Makers
   Budget: ABO (equal per ad set for fair testing)
-  Objective: Awareness or Video Views (NOT Leads — prevents cheap junk fills)
+  Objective: Awareness or Video Views (NOT Leads - prevents cheap junk fills)
 
-Campaign 2: ABM — Retargeting (Engaged Accounts)
+Campaign 2: ABM - Retargeting (Engaged Accounts)
   Ad Set: Website visitors from target accounts (30-day)
   Ad Set: Content consumers (video viewers 50%+, ad engagers)
   Budget: ABO or CBO
   Objective: Traffic or Leads
 
-Campaign 3: ABM — Acceleration (Open Pipeline)
+Campaign 3: ABM - Acceleration (Open Pipeline)
   Ad Set: High-value opps ($100K+)
   Ad Set: Stalled deals (30+ days in stage)
   Budget: ABO (control spend per segment)
@@ -104,7 +104,7 @@ Campaign 4: Broad Prospecting (Non-ABM, separate)
 | Lookalike expansion (seed) | 500 accounts | 1,000+ |
 | Broad prospecting | 500K people | 1-2M |
 
-**If your TAL is under 1,000:** Use Meta only for retargeting accounts that engage on LinkedIn. Don't run cold ABM on Meta — the audience is too small for the algorithm.
+**If your TAL is under 1,000:** Use Meta only for retargeting accounts that engage on LinkedIn. Don't run cold ABM on Meta - the audience is too small for the algorithm.
 
 ---
 
@@ -125,7 +125,7 @@ Campaign 4: Broad Prospecting (Non-ABM, separate)
 3. **Export:** Company name, website domain, decision maker emails, opportunity stage
 4. **Upload as Custom Audience** in Meta (refresh weekly)
 5. **Creative:** Case studies from same industry, ROI calculators, competitive comparison, executive thought leadership
-6. **Objective:** Awareness (reinforce brand) — NOT conversion (don't push demos to people already in pipeline)
+6. **Objective:** Awareness (reinforce brand) - NOT conversion (don't push demos to people already in pipeline)
 
 ### Budget
 - High-value opps ($100K+): $100-200/day
@@ -135,7 +135,7 @@ Campaign 4: Broad Prospecting (Non-ABM, separate)
 ### Measurement
 - **Primary:** Win rate (test group vs. holdout)
 - **Secondary:** Days in stage (did exposed accounts close faster?)
-- **Holdout:** 80% see ads, 20% don't — compare outcomes after 21+ days
+- **Holdout:** 80% see ads, 20% don't - compare outcomes after 21+ days
 
 ---
 
@@ -150,12 +150,12 @@ Campaign 4: Broad Prospecting (Non-ABM, separate)
 
 ### Coordination Framework
 
-1. **Same account list** — Export identical TAL to both platforms from CRM
-2. **Sequential activation** — LinkedIn (awareness/cold outreach) then Meta (reinforcement/retargeting)
-3. **Message alignment** — Same value proposition, same visual identity, persona-specific copy
-4. **Offer consistency** — Don't run conflicting offers simultaneously (free trial on LinkedIn, demo on Meta)
-5. **UTM consistency** — Same account_id parameter across channels for attribution
-6. **Combined reporting** — Dashboard showing account-level touches across both channels
+1. **Same account list** - Export identical TAL to both platforms from CRM
+2. **Sequential activation** - LinkedIn (awareness/cold outreach) then Meta (reinforcement/retargeting)
+3. **Message alignment** - Same value proposition, same visual identity, persona-specific copy
+4. **Offer consistency** - Don't run conflicting offers simultaneously (free trial on LinkedIn, demo on Meta)
+5. **UTM consistency** - Same account_id parameter across channels for attribution
+6. **Combined reporting** - Dashboard showing account-level touches across both channels
 
 ### Budget Split (ABM Across Channels)
 - LinkedIn: 60% of ABM budget (precision, higher intent)
@@ -164,7 +164,7 @@ Campaign 4: Broad Prospecting (Non-ABM, separate)
 
 ### The Cross-Channel Retargeting Play
 Use LinkedIn to validate audience quality (precise targeting), then retarget that validated traffic on Meta at lower cost:
-1. Run LinkedIn ABM campaigns — traffic lands on website with LinkedIn UTMs
+1. Run LinkedIn ABM campaigns - traffic lands on website with LinkedIn UTMs
 2. Create Meta Custom Audience: website visitors where URL contains `utm_source=linkedin`
 3. Retarget LinkedIn-validated audience on Meta at 50-70% lower CPM
 4. Result: LinkedIn-quality audience at Meta-level costs
@@ -208,7 +208,7 @@ Use LinkedIn to validate audience quality (precise targeting), then retarget tha
 | **Deal velocity** | Reduction in sales cycle days | -10-20% |
 
 ### Attribution for Long Sales Cycles
-- Meta only sees Meta's touches — use CRM for the full picture
+- Meta only sees Meta's touches - use CRM for the full picture
 - Set attribution window to 7-day click minimum (28-day if available)
 - Use W-shaped or full-path attribution in CRM to credit Meta appropriately
 - Don't rely on last-touch (Meta wins retargeting credit, which is misleading for ABM)
@@ -236,8 +236,8 @@ Keeps attribution clean, prevents annoying existing customers, and focuses budge
 
 ## Related Files
 
-- **audience-strategy.md** — Data hierarchy, CRM lookalikes, third-party sources
-- **campaign-structure.md** — How ABM campaigns fit in overall account architecture
-- **offer-strategy.md** — What offers to use for ABM at each funnel stage
-- **optimization-playbook.md** — When to kill/optimize/scale ABM campaigns
-- **meta-capi-and-events.md** — Sending closed-won events back to Meta for optimization
+- **audience-strategy.md** - Data hierarchy, CRM lookalikes, third-party sources
+- **campaign-structure.md** - How ABM campaigns fit in overall account architecture
+- **offer-strategy.md** - What offers to use for ABM at each funnel stage
+- **optimization-playbook.md** - When to kill/optimize/scale ABM campaigns
+- **meta-capi-and-events.md** - Sending closed-won events back to Meta for optimization

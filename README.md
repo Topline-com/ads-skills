@@ -1,12 +1,12 @@
 # Ivan Falco's Ads Skills for Claude Code
 
-**Turn Claude Code into your B2B advertising co-pilot.** 40+ strategy files, 39 API scripts, and battle-tested frameworks for LinkedIn, Meta, and Google Ads — built from managing $200K+/month in B2B ad spend across 12+ accounts.
+**Turn Claude Code into your B2B advertising co-pilot.** 40+ strategy files, 39 API scripts, and battle-tested frameworks for LinkedIn, Meta, and Google Ads - built from managing $200K+/month in B2B ad spend across 12+ accounts.
 
 Clone this repo, open Claude Code, and ask it anything about your ads. It knows the strategy, it can pull your data, and it can manage your campaigns.
 
 ## Built by
 
-**Ivan Falco** — B2B growth operator, ABM and ads expert, founder of [ColdIQ](https://coldiq.com). Building AI-native advertising systems that make one person operate like five.
+**Ivan Falco** - B2B growth operator, ABM and ads expert, founder of [ColdIQ](https://coldiq.com). Building AI-native advertising systems that make one person operate like five.
 
 [LinkedIn](https://www.linkedin.com/in/ivanfalco/)
 
@@ -18,10 +18,10 @@ Clone this repo, open Claude Code, and ask it anything about your ads. It knows 
 
 | Skill | Command | What it does |
 |-------|---------|-------------|
-| **LinkedIn Ads** | `/linkedin-ads` | Full campaign lifecycle — strategy, targeting, creative, analytics, bidding, demographics, audience uploads, lead forms |
-| **Meta Ads** | `/meta-ads` | Meta for B2B — creative-as-targeting, audience strategy, campaign structure, optimization, fatigue detection |
-| **Google Ads** | `/google-ads` | Intent-first search campaigns — keyword management, bid strategy, search terms auditing, performance analysis |
-| **Onboarding** | `/onboarding` | Interactive 5-minute setup — API credentials, connection testing, getting started |
+| **LinkedIn Ads** | `/linkedin-ads` | Full campaign lifecycle - strategy, targeting, creative, analytics, bidding, demographics, audience uploads, lead forms |
+| **Meta Ads** | `/meta-ads` | Meta for B2B - creative-as-targeting, audience strategy, campaign structure, optimization, fatigue detection |
+| **Google Ads** | `/google-ads` | Intent-first search campaigns - keyword management, bid strategy, search terms auditing, performance analysis |
+| **Onboarding** | `/onboarding` | Interactive 5-minute setup - API credentials, connection testing, getting started |
 
 ### 40+ Knowledge Base Files
 
@@ -65,47 +65,47 @@ Clone this repo, open Claude Code, and ask it anything about your ads. It knows 
 
 ### 39 Python Scripts
 
-**LinkedIn Ads — 14 scripts:**
-- `account_overview.py` — Account dashboard with period comparison
-- `list_campaigns.py` — All campaigns with status, budget, metrics
-- `get_campaign_performance.py` — Detailed analytics with daily breakdown
-- `create_campaign.py` — Create campaigns (5 objectives, 3 bid strategies)
-- `update_campaign.py` — Update status, budget, bids, name
-- `list_creatives.py` — All creatives with type and campaign association
-- `get_demographics.py` — 5-pivot demographics (job function, seniority, company size, industry, country)
-- `upload_audience.py` — Upload TAL/contact lists as DMP segments
-- `list_lead_forms.py` — All lead gen forms with questions
-- `manage_bids.py` — View and update bid strategy and amounts
-- `linkedin_api.py` — Core API client class
-- `oauth_server.py` — OAuth token flow
-- `config.py` / `client.py` — Shared configuration and auth
+**LinkedIn Ads - 14 scripts:**
+- `account_overview.py` - Account dashboard with period comparison
+- `list_campaigns.py` - All campaigns with status, budget, metrics
+- `get_campaign_performance.py` - Detailed analytics with daily breakdown
+- `create_campaign.py` - Create campaigns (5 objectives, 3 bid strategies)
+- `update_campaign.py` - Update status, budget, bids, name
+- `list_creatives.py` - All creatives with type and campaign association
+- `get_demographics.py` - 5-pivot demographics (job function, seniority, company size, industry, country)
+- `upload_audience.py` - Upload TAL/contact lists as DMP segments
+- `list_lead_forms.py` - All lead gen forms with questions
+- `manage_bids.py` - View and update bid strategy and amounts
+- `linkedin_api.py` - Core API client class
+- `oauth_server.py` - OAuth token flow
+- `config.py` / `client.py` - Shared configuration and auth
 
-**Meta Ads — 12 scripts:**
-- `account_overview.py` — Account dashboard with actions breakdown
-- `list_campaigns.py` — Campaigns with inline insights
-- `get_campaign_performance.py` — Analytics with daily breakdown
-- `create_campaign.py` — Create campaigns (5 objectives, special ad categories)
-- `update_campaign.py` — Update status, budget, name
-- `list_ad_sets.py` — Ad sets with targeting summary and metrics
-- `list_ads.py` — All ads with performance data
-- `get_active_ads_copy.py` — Full creative/copy extraction (link, video, carousel, dynamic)
-- `create_custom_audience.py` — Upload hashed customer lists
-- `ad_scheduler.py` — Schedule automatic ad pauses
-- `config.py` / `client.py` — Shared configuration and auth
+**Meta Ads - 12 scripts:**
+- `account_overview.py` - Account dashboard with actions breakdown
+- `list_campaigns.py` - Campaigns with inline insights
+- `get_campaign_performance.py` - Analytics with daily breakdown
+- `create_campaign.py` - Create campaigns (5 objectives, special ad categories)
+- `update_campaign.py` - Update status, budget, name
+- `list_ad_sets.py` - Ad sets with targeting summary and metrics
+- `list_ads.py` - All ads with performance data
+- `get_active_ads_copy.py` - Full creative/copy extraction (link, video, carousel, dynamic)
+- `create_custom_audience.py` - Upload hashed customer lists
+- `ad_scheduler.py` - Schedule automatic ad pauses
+- `config.py` / `client.py` - Shared configuration and auth
 
-**Google Ads — 13 scripts:**
-- `account_overview.py` — Account snapshot with period comparison
-- `list_campaigns.py` — All campaigns with metrics
-- `get_campaign_performance.py` — Detailed analytics with daily/custom ranges
-- `create_campaign.py` — Create campaigns (6 types, 5 bidding strategies)
-- `update_campaign.py` — Update status, budget, name
-- `create_ad_group.py` — Create ad groups with CPC bids
-- `create_ad.py` — Create RSAs with headline/description validation
-- `list_ads.py` — Ads with performance and approval status
-- `add_keywords.py` — Add positive/negative keywords (broad, phrase, exact)
-- `get_keyword_performance.py` — Keyword analytics with Quality Score
-- `search_terms_report.py` — Search terms audit, wasted spend finder
-- `config.py` / `client.py` — Shared configuration and auth
+**Google Ads - 13 scripts:**
+- `account_overview.py` - Account snapshot with period comparison
+- `list_campaigns.py` - All campaigns with metrics
+- `get_campaign_performance.py` - Detailed analytics with daily/custom ranges
+- `create_campaign.py` - Create campaigns (6 types, 5 bidding strategies)
+- `update_campaign.py` - Update status, budget, name
+- `create_ad_group.py` - Create ad groups with CPC bids
+- `create_ad.py` - Create RSAs with headline/description validation
+- `list_ads.py` - Ads with performance and approval status
+- `add_keywords.py` - Add positive/negative keywords (broad, phrase, exact)
+- `get_keyword_performance.py` - Keyword analytics with Quality Score
+- `search_terms_report.py` - Search terms audit, wasted spend finder
+- `config.py` / `client.py` - Shared configuration and auth
 
 ## Quick Start
 
@@ -135,17 +135,17 @@ Or skip onboarding and just start asking:
 
 These skills turn Claude Code into a specialized advertising assistant. Each skill file teaches Claude:
 
-- **What to do** — strategy frameworks, decision trees, benchmarks
-- **How to do it** — Python scripts that connect to ad platform APIs
-- **When to reference what** — routing logic that loads the right knowledge for the task
+- **What to do** - strategy frameworks, decision trees, benchmarks
+- **How to do it** - Python scripts that connect to ad platform APIs
+- **When to reference what** - routing logic that loads the right knowledge for the task
 
-The methodology is the Ivan Falco 5-Stage Demand Engine approach — battle-tested across 12+ B2B accounts, $200K+/month in managed spend. When Claude gives you advice through these skills, it's grounded in real campaign data, not generic best practices.
+The methodology is the Ivan Falco 5-Stage Demand Engine approach - battle-tested across 12+ B2B accounts, $200K+/month in managed spend. When Claude gives you advice through these skills, it's grounded in real campaign data, not generic best practices.
 
 ## Repo Structure
 
 ```
 ads-skills/
-├── CLAUDE.md                           # AI context — branding, rules, architecture
+├── CLAUDE.md                           # AI context - branding, rules, architecture
 ├── .claude/
 │   └── skills/
 │       ├── onboarding/                 # Interactive setup (SKILL.md)

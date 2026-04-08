@@ -8,8 +8,8 @@
 
 ## Optimization Signal Types
 
-- **Leading** = events that happen quickly (< month) — use for quick optimization
-- **Lagging** = events that happen slowly (> month) — use for directional truth
+- **Leading** = events that happen quickly (< month) - use for quick optimization
+- **Lagging** = events that happen slowly (> month) - use for directional truth
 
 ## Signals by Stage
 
@@ -25,7 +25,7 @@
 
 The key is choosing the right leading signals that actually influence your lagging events. Experimentation is key, and you'll likely change over time.
 
-The average B2B sales cycle can range from 2-24 months — you can't afford to wait even 2 weeks without being able to optimize your campaigns.
+The average B2B sales cycle can range from 2-24 months - you can't afford to wait even 2 weeks without being able to optimize your campaigns.
 
 ## Testing Rules
 
@@ -78,12 +78,12 @@ Product teams have used this methodology for decades (called proxy metrics in th
 A good proxy metric formula: "Percentage of [customers/users] who do at least [minimum threshold for action] by [X period in time]."
 
 A good proxy metric should be:
-- Measurable — you can find, collect, and measure the data
-- Moveable — you can affect it through changes
-- Not an average — averages can be gamed by a small subset doing more
+- Measurable - you can find, collect, and measure the data
+- Moveable - you can affect it through changes
+- Not an average - averages can be gamed by a small subset doing more
 - Correlated to your high-level engagement metric
 - Specifies new vs. existing customers
-- Not gameable — if someone can artificially inflate it, revise the metric
+- Not gameable - if someone can artificially inflate it, revise the metric
 
 ## Experimentation Library
 
@@ -106,6 +106,6 @@ For each completed experiment, document:
 - Budget spent
 - Channel and creative used
 
-Avoid the "activity trap" — testing for the sake of testing, not testing to learn. Stack on your success by building on documented learnings.
+Avoid the "activity trap" - testing for the sake of testing, not testing to learn. Stack on your success by building on documented learnings.
 
 Set up automation: When an experiment is marked as completed, automatically notify the team via Slack with the result and key learnings.

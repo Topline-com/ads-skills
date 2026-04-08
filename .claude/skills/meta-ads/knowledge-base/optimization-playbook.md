@@ -1,4 +1,4 @@
-# Meta Ads Optimization Playbook — B2B SaaS
+# Meta Ads Optimization Playbook - B2B SaaS
 
 What to do when things go right, wrong, or sideways. Decision trees, weekly cadence, thresholds, and benchmarks for managing B2B SaaS Meta accounts ($30K+ ACV).
 
@@ -26,10 +26,10 @@ Single-day or 3-day fluctuations are normal. Meta rotates audiences, tests deliv
 | Landing page CVR | 8-12% | 15%+ | < 5% |
 
 **Seasonal CPM swings:**
-- Q1 (Jan-Mar): Lowest CPMs — scale aggressively
+- Q1 (Jan-Mar): Lowest CPMs - scale aggressively
 - Q2 (Apr-Jun): Baseline (+10-20%)
 - Q3 (Jul-Sep): Moderate increase (+15-25%)
-- Q4 (Oct-Dec): Spike (+60-80%) — consider pausing or reducing B2B spend
+- Q4 (Oct-Dec): Spike (+60-80%) - consider pausing or reducing B2B spend
 
 ---
 
@@ -129,7 +129,7 @@ Bad lead quality?
 ├─ Targeting issues
 │   ├─ Running broad targeting? → Add job title + interest stacking
 │   ├─ Advantage+ expanding too wide? → Switch to Original Audience or add "Further Limit Reach"
-│   └─ Audience Network enabled? → Disable — often low-quality traffic for B2B
+│   └─ Audience Network enabled? → Disable - often low-quality traffic for B2B
 │
 ├─ Creative issues
 │   ├─ Ad copy too generic? → Add ICP specificity ("For B2B SaaS teams with 50+ employees")
@@ -242,13 +242,13 @@ Examples:
 
 ## Weekly Optimization Cadence
 
-### Monday — Performance Review
+### Monday - Performance Review
 - Review past 7 days: CPA, CTR, CPM, frequency, lead volume
 - Check CRM: lead quality from last week's ads (job titles, companies, MQL rate)
 - Identify top 3 performing ads → why are they winning?
 - Flag creative fatigue signals (CTR drop, frequency > 3.0)
 
-### Wednesday — Creative + Targeting
+### Wednesday - Creative + Targeting
 - Launch new creative variations based on Monday's analysis
 - Apply 50/30/20 budget allocation:
   - 50% → Proven winners
@@ -256,7 +256,7 @@ Examples:
   - 20% → New concepts (completely different angles)
 - Review learning phase status on new ad sets
 
-### Friday — Budget + Scaling Decisions
+### Friday - Budget + Scaling Decisions
 - Scale winners (15-20% budget increase if criteria met)
 - Pause underperformers (see Kill criteria above)
 - Check budget pacing (spent evenly through week?)
@@ -280,10 +280,10 @@ Examples:
 
 20% of your campaigns yield 80% of results. Apply this ruthlessly:
 
-1. **Identify your 20%** — Which campaigns/ad sets/ads actually drive qualified pipeline?
-2. **Kill the 80%** — Not "reduce budget" — pause them entirely
-3. **Reinvest in winners** — Double down on what works
-4. **Test in controlled batches** — 20% of budget goes to new concepts, not scatter-shot launches
+1. **Identify your 20%** - Which campaigns/ad sets/ads actually drive qualified pipeline?
+2. **Kill the 80%** - Not "reduce budget" - pause them entirely
+3. **Reinvest in winners** - Double down on what works
+4. **Test in controlled batches** - 20% of budget goes to new concepts, not scatter-shot launches
 
 **Real example:** An account needed to 3-5x ROI in 30 days. Solution: paused everything that wasn't driving revenue. The 80/20 applied, and cutting the waste was enough.
 
@@ -296,22 +296,22 @@ Examples:
 | Campaign Type | Placement | Reasoning |
 |--------------|-----------|-----------|
 | Cold prospecting | Advantage+ (auto) OK | Let Meta find where your ICP responds. Review placement report after 7 days. |
-| Retargeting | Manual: Feed priority | Users need to read, click, engage — Feed is best for consideration. |
+| Retargeting | Manual: Feed priority | Users need to read, click, engage - Feed is best for consideration. |
 | ABM | Manual: Feed only | Precise messaging, no waste on low-quality placements. |
 | Brand awareness | Advantage+ (auto) OK | Maximize reach across surfaces. |
 
 ### Placements to Watch / Exclude
-- **Audience Network** — Often low-quality traffic for B2B. Test, but exclude if lead quality drops.
-- **Stories/Reels** — Works for awareness, poor for complex B2B messaging. Only use with dedicated 9:16 creative.
-- **Facebook Feed** — Primary B2B placement. Most engagement, best for long copy.
-- **Instagram Feed** — Secondary. Good for visual credibility, decision-maker presence.
+- **Audience Network** - Often low-quality traffic for B2B. Test, but exclude if lead quality drops.
+- **Stories/Reels** - Works for awareness, poor for complex B2B messaging. Only use with dedicated 9:16 creative.
+- **Facebook Feed** - Primary B2B placement. Most engagement, best for long copy.
+- **Instagram Feed** - Secondary. Good for visual credibility, decision-maker presence.
 
 ---
 
 ## Related Files
 
-- **campaign-structure.md** — ABO/CBO/Advantage+ setup, campaign architecture
-- **creative-strategy.md** — What to build when creative refresh is needed
-- **creative-fatigue-detection.md** — Frequency thresholds, rotation timing
-- **message-validation.md** — How to identify your true top-performing ads
-- **lead-form-optimization.md** — Fixing lead quality at the form level
+- **campaign-structure.md** - ABO/CBO/Advantage+ setup, campaign architecture
+- **creative-strategy.md** - What to build when creative refresh is needed
+- **creative-fatigue-detection.md** - Frequency thresholds, rotation timing
+- **message-validation.md** - How to identify your true top-performing ads
+- **lead-form-optimization.md** - Fixing lead quality at the form level

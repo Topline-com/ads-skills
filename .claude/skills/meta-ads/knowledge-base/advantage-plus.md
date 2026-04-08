@@ -36,9 +36,9 @@ Advantage+ is Meta's product layer built on Andromeda. It automates targeting, p
 - Adjusts creative per placement and audience segment
 
 ### 4. Advantage+ Campaigns (Full Automation)
-- **Advantage+ Sales** (formerly Shopping) — for conversion-optimized campaigns
-- **Advantage+ Leads** (launched February 2025) — specifically for B2B lead gen
-- **Advantage+ App** — for app installs
+- **Advantage+ Sales** (formerly Shopping) - for conversion-optimized campaigns
+- **Advantage+ Leads** (launched February 2025) - specifically for B2B lead gen
+- **Advantage+ App** - for app installs
 - Fully automated: targeting, budget allocation, creative optimization, placements
 
 ---
@@ -47,9 +47,9 @@ Advantage+ is Meta's product layer built on Andromeda. It automates targeting, p
 
 Launched globally February 2025, designed for lead generation with B2B-specific features:
 
-- **Work email validation** — require business email addresses on lead forms
-- **SMS verification** — verify phone numbers to reduce fake leads
-- **Lead filtering** — pre-qualify leads before they submit
+- **Work email validation** - require business email addresses on lead forms
+- **SMS verification** - verify phone numbers to reduce fake leads
+- **Lead filtering** - pre-qualify leads before they submit
 - **10% lower cost per qualified lead** in Meta's early testing
 
 This is Meta's answer to the "lead quality is terrible on Meta" problem for B2B.
@@ -68,23 +68,23 @@ This is Meta's answer to the "lead quality is terrible on Meta" problem for B2B.
 
 ### Use Manual Campaigns When:
 - **Early testing** with new offers, audiences, or creative concepts
-- Conversion volume is **low** (< 50/week) — common with niche B2B or $100K+ ACV
+- Conversion volume is **low** (< 50/week) - common with niche B2B or $100K+ ACV
 - You need **strict audience control** (ABM against named accounts)
 - You need **granular reporting** by segment
-- Running **top-of-funnel awareness** (video views, engagement — Advantage+ is lower-funnel focused)
-- **Limited creative** (< 3 variations — algorithm needs variety)
+- Running **top-of-funnel awareness** (video views, engagement - Advantage+ is lower-funnel focused)
+- **Limited creative** (< 3 variations - algorithm needs variety)
 
 ### The Hybrid Approach (Recommended for B2B SaaS)
 
 ```
-Manual Campaigns (ABO) — "Where You Learn"
+Manual Campaigns (ABO) - "Where You Learn"
   Audience validation tests (separate ad sets per audience)
   New creative concept testing
   Top-of-funnel awareness (video views, engagement)
   ABM retargeting (specific accounts)
   Use Ad Set Budget for control
 
-Advantage+ Campaigns (CBO) — "Where You Earn"
+Advantage+ Campaigns (CBO) - "Where You Earn"
   Scale proven offers with best-performing creative
   Lower-funnel conversions (leads, demos, trials)
   Let Meta optimize for volume + quality
@@ -99,8 +99,8 @@ Advantage+ Campaigns (CBO) — "Where You Earn"
 
 1. **Ads Manager > Create > Leads objective** (auto-defaults to Advantage+)
 2. **Conversion location:** Website (Pixel + CAPI) or Instant Forms (recommended for mobile)
-3. **Budget:** Set at campaign level (CBO) — minimum = (Target CPA x 50) / 7 days
-4. **Audience:** Provide suggestions (custom audiences, lookalikes, detailed targeting) — Meta treats as starting points, not limits
+3. **Budget:** Set at campaign level (CBO) - minimum = (Target CPA x 50) / 7 days
+4. **Audience:** Provide suggestions (custom audiences, lookalikes, detailed targeting) - Meta treats as starting points, not limits
 5. **Demographics:** Set location (required). Only use "Further Limit Reach" for age/gender if you have DATA showing certain segments don't convert.
 6. **Creative:** Upload 3-5+ variations. Enable Advantage+ Creative for auto-variations.
 7. **Lead Form setup:**
@@ -129,7 +129,7 @@ Most B2B SaaS with $30K+ ACV won't hit 50 conversions/week on demos or meetings.
 - Optimize for **upper-funnel events** first (lead form submissions, landing page views)
 - Use **lead magnets** (higher volume) to feed the algorithm, then retarget converters toward demos
 - Send **MQL events** via CAPI to train the algorithm on qualified leads, not just raw form fills
-- **Consolidate ad sets** — one large ad set with more budget > multiple small ones
+- **Consolidate ad sets** - one large ad set with more budget > multiple small ones
 
 ---
 
@@ -137,8 +137,8 @@ Most B2B SaaS with $30K+ ACV won't hit 50 conversions/week on demos or meetings.
 
 **Key concept:** In Advantage+ mode, all audiences are **suggestions**.
 
-- Upload CRM lookalike as audience — Meta uses it as a starting signal, then expands
-- Upload retargeting audience — Meta serves to them first, then finds similar users
+- Upload CRM lookalike as audience - Meta uses it as a starting signal, then expands
+- Upload retargeting audience - Meta serves to them first, then finds similar users
 - There's no way to "lock" Advantage+ to a specific audience
 
 **Advantage Custom Audience:** Dynamically expands beyond your list if algorithm predicts better performance. You cannot turn off expansion in Advantage+ mode.
@@ -169,7 +169,7 @@ Most B2B SaaS with $30K+ ACV won't hit 50 conversions/week on demos or meetings.
 
 ---
 
-## "Further Limit Reach" — When to Use
+## "Further Limit Reach" - When to Use
 
 This setting applies hard demographic filters in Advantage+ campaigns. Meta discourages it because it reduces the algorithm's ability to optimize.
 
@@ -191,9 +191,9 @@ This setting applies hard demographic filters in Advantage+ campaigns. Meta disc
 ## Campaign Score
 
 Meta now shows a Campaign Score (0-100) that grades how well you follow their recommendations. For B2B:
-- **70+:** Good — campaigns follow best practices
-- **50-70:** Room for improvement — likely over-constraining targeting or under-feeding creative
-- **< 50:** Significant issues — may be fighting the algorithm
+- **70+:** Good - campaigns follow best practices
+- **50-70:** Room for improvement - likely over-constraining targeting or under-feeding creative
+- **< 50:** Significant issues - may be fighting the algorithm
 
 Increasing your Campaign Score typically means: more creative variety, broader targeting, Advantage+ features enabled, higher budget relative to CPA.
 
@@ -210,14 +210,14 @@ Increasing your Campaign Score typically means: more creative variety, broader t
 | CBO vs ABO | Baseline (ABO) | -12% cost per conversion (CBO) | Moderate |
 | Advantage+ Leads CPL | Baseline | -10% lower (Meta early testing) | Early data |
 
-**Caveat:** Most published data is Meta's own testing. Independent B2B-specific case studies for Advantage+ Leads are limited (feature is new — launched Feb 2025). Test in your accounts before committing.
+**Caveat:** Most published data is Meta's own testing. Independent B2B-specific case studies for Advantage+ Leads are limited (feature is new - launched Feb 2025). Test in your accounts before committing.
 
 ---
 
 ## Related Files
 
-- **campaign-structure.md** — How Advantage+ fits in the overall ABO to CBO to Advantage+ progression
-- **optimization-playbook.md** — Learning phase rules, scaling protocol, decision trees
-- **abm-on-meta.md** — Why ABM needs manual campaigns, not Advantage+
-- **audience-strategy.md** — How audience suggestions work in Advantage+ mode
-- **creative-strategy.md** — Why creative diversity matters more post-Andromeda
+- **campaign-structure.md** - How Advantage+ fits in the overall ABO to CBO to Advantage+ progression
+- **optimization-playbook.md** - Learning phase rules, scaling protocol, decision trees
+- **abm-on-meta.md** - Why ABM needs manual campaigns, not Advantage+
+- **audience-strategy.md** - How audience suggestions work in Advantage+ mode
+- **creative-strategy.md** - Why creative diversity matters more post-Andromeda
