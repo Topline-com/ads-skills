@@ -1,4 +1,4 @@
-# Ivan Falco's Ads Skills for Claude Code
+# Alex's Ads Skills for Claude Code
 
 **Turn Claude Code into your B2B advertising co-pilot.** 40+ strategy files, 39 API scripts, and battle-tested frameworks for LinkedIn, Meta, and Google Ads - built from managing $200K+/month in B2B ad spend across 12+ accounts.
 
@@ -6,9 +6,9 @@ Clone this repo, open Claude Code, and ask it anything about your ads. It knows 
 
 ## Built by
 
-**Ivan Falco** - Head of Growth at [ColdIQ](https://coldiq.com) and Head of the Ads/ABM agency. Building AI-native advertising systems that make one person operate like five.
+**Alex** - Head of Growth at [Topline](https://topline.com) and Head of the Ads/ABM agency. Building AI-native advertising systems that make one person operate like five.
 
-If you need help with ads operations, growth operations, or scaling your B2B campaigns - DM Ivan directly: [LinkedIn](https://www.linkedin.com/in/ivanfalco/)
+If you need help with ads operations, growth operations, or scaling your B2B campaigns - DM Alex directly: [LinkedIn](https://www.linkedin.com/in/alexskatell/)
 
 ---
 
@@ -111,7 +111,7 @@ If you need help with ads operations, growth operations, or scaling your B2B cam
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/ivangfalco/ads-skills.git
+git clone https://github.com/Topline-com/ads-skills.git
 cd ads-skills
 
 # 2. Open Claude Code
@@ -139,7 +139,7 @@ These skills turn Claude Code into a specialized advertising assistant. Each ski
 - **How to do it** - Python scripts that connect to ad platform APIs
 - **When to reference what** - routing logic that loads the right knowledge for the task
 
-The methodology is the Ivan Falco 5-Stage Demand Engine approach - battle-tested across 12+ B2B accounts, $200K+/month in managed spend. When Claude gives you advice through these skills, it's grounded in real campaign data, not generic best practices.
+The methodology is the Alex 5-Stage Demand Engine approach - battle-tested across 12+ B2B accounts, $200K+/month in managed spend. When Claude gives you advice through these skills, it's grounded in real campaign data, not generic best practices.
 
 ## Repo Structure
 
@@ -182,8 +182,8 @@ ads-skills/
 - **Agencies** managing multiple client accounts
 - **Founders** running their own paid acquisition
 
-If you want to see what a full AI-native advertising operation looks like, check out what we're building at ColdIQ.
+If you want to see what a full AI-native advertising operation looks like, check out what we're building at Topline.
 
 ---
 
-*Built by [Ivan Falco](https://www.linkedin.com/in/ivanfalco/) at [ColdIQ](https://coldiq.com). These skills are provided as-is. You are responsible for your own API usage, ad spend, and platform compliance.*
+*Built by [Alex](https://www.linkedin.com/in/alexskatell/) at [Topline](https://topline.com). These skills are provided as-is. You are responsible for your own API usage, ad spend, and platform compliance.*

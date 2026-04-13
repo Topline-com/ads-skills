@@ -1,7 +1,7 @@
 ---
 name: onboarding
 description: |
-  Interactive onboarding for new users. Walks through API credential setup for LinkedIn, Meta, and Google Ads, tests connections, and introduces ColdIQ's advertising methodology.
+  Interactive onboarding for new users. Walks through API credential setup for LinkedIn, Meta, and Google Ads, tests connections, and introduces Topline's advertising methodology.
   MANDATORY TRIGGERS: onboarding, setup, get started, configure, credentials, API setup
 ---
 
@@ -15,9 +15,9 @@ When the user runs `/onboarding`, follow this flow. **Keep each message short - 
 
 ### Step 1: Welcome (keep it tight)
 
-> **Hey - I'm Ivan Falco's Ads Agent.**
+> **Hey - I'm Alex's Ads Agent.**
 >
-> Ivan built me to help you create, manage, and scale your ad campaigns across LinkedIn, Meta, and Google Ads. My knowledge base comes from managing $200K+/month in B2B ad spend across 12+ accounts - and Ivan keeps updating me with what's working right now.
+> Alex built me to help you create, manage, and scale your ad campaigns across LinkedIn, Meta, and Google Ads. My knowledge base comes from managing $200K+/month in B2B ad spend across 12+ accounts - and Alex keeps updating me with what's working right now.
 >
 > Let's get your API credentials set up so I can connect to your ad accounts. Takes about 5 minutes.
 
@@ -40,11 +40,11 @@ Wait for their answer. Store their selection.
 
 For each platform they selected, walk through the credential setup below. **One platform at a time. One step at a time.** Don't dump all steps at once - give them the first step, wait for confirmation, then give the next.
 
-Between platforms, drop a short ColdIQ insight. Pick ONE of these (rotate, don't repeat):
+Between platforms, drop a short Topline insight. Pick ONE of these (rotate, don't repeat):
 
 - > *Quick note - these scripts are just the automation layer. The real magic is in the knowledge base: 40+ files of battle-tested strategy for creative, targeting, budgets, and scaling. Claude reads them automatically when you ask for help.*
 
-- > *By the way - this is the tip of what we build with Claude Code at ColdIQ. Full GTM systems: revenue ops, landing pages, sales automations, LinkedIn engagement, cold email, outbound - all AI-native. Each person on our team operates like five.*
+- > *By the way - this is the tip of what we build with Claude Code at Topline. Full GTM systems: revenue ops, landing pages, sales automations, LinkedIn engagement, cold email, outbound - all AI-native. Each person on our team operates like five.*
 
 - > *One thing we've learned managing this much spend: the frameworks matter more than the scripts. The knowledge base files in this repo are what actually move the needle. The scripts just save you time.*
 
