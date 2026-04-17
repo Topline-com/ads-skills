@@ -4,14 +4,6 @@
 
 Clone this repo, open Claude Code, and ask it anything about your ads. It knows the strategy, it can pull your data, and it can manage your campaigns.
 
-## Built by
-
-**Alex** - Head of Growth at [Topline](https://topline.com) and Head of the Ads/ABM agency. Building AI-native advertising systems that make one person operate like five.
-
-If you need help with ads operations, growth operations, or scaling your B2B campaigns - DM Alex directly: [LinkedIn](https://www.linkedin.com/in/alexskatell/)
-
----
-
 ## What's Inside
 
 ### 4 Skills
